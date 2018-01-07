@@ -1,4 +1,4 @@
-#THE VEIL 
+# THE VEIL 
 ## Second Printing
 
 For everyone who believed in me, especially my brother and—in this rare instance—myself included.
