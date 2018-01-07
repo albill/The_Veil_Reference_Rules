@@ -1864,11 +1864,11 @@ When you disengage from your emotions in order to _Lift The Veil_, you may choos
 
 This is a move that gets triggered when the Apparatus tries to shut down or temporarily lock away its emotions and Humanity, in order to do something efficiently and without feeling. When you do so, you may roll a +1 in lieu of any other State. On a hit, the fiction plays out as per the Lift The Veil move. On a miss, the MC makes a move and, depending on what’s going on in the fiction, the MC may have an emotion Spike added; it’s a bit of a gamble—especially if you only have one State unlocked at the time with a lot of emotion Spikes in it. If it doesn’t make sense for an emotion to be added, then it shouldn’t happen. They may ask the player what they think might happen on a miss, or the player might volunteer a scenario to help fill in what might follow in the fiction, should this particular situation go awry; if it doesn’t make sense for the emotion to Spike out.
 
-MC: Dang, alright. Dave is hardcore. Well he can’t defend himself so the gun howls, as its namesake denotes, we see multiple plasma shots dig into him, a cartridge is ejected from the gun and he drops like the dead weight he is now, the cartridge hitting the floor at the same time. How’s the Apparatus feeling?
+**MC:** Dang, alright. Dave is hardcore. Well he can’t defend himself so the gun howls, as its namesake denotes, we see multiple plasma shots dig into him, a cartridge is ejected from the gun and he drops like the dead weight he is now, the cartridge hitting the floor at the same time. How’s the Apparatus feeling?
 
 **Scott:** I’m freaking out, Dave just killed an innocent man. I need to figure out who is he but I’m having so many conflicting emotions right now. I’m going to lock them down and slip into the calm coldness of logic. I’ll deal with Dave later. Aw man, I got a 3 even with the +1, I still totally miss with a 4. I just can’t lock out my new-found emotions I guess, and maybe that scares me.
 
-MC: Yeah, that sounds good – go ahead and mark that Spike. Also, as far as Lift The Veil, the analysis runs but no definitive match was found; it’s like he doesn’t exist at all! It’s kind of weird, though. You get this strange sense that there were hits – maybe even more than one, but the system comes back with nothing. You get this bad feeling and your hand just suddenly locks up,unresponsive. Malfunctioning. You can’t control it. What do you do?
+**MC:** Yeah, that sounds good – go ahead and mark that Spike. Also, as far as Lift The Veil, the analysis runs but no definitive match was found; it’s like he doesn’t exist at all! It’s kind of weird, though. You get this strange sense that there were hits – maybe even more than one, but the system comes back with nothing. You get this bad feeling and your hand just suddenly locks up,unresponsive. Malfunctioning. You can’t control it. What do you do?
 
 ## Judgment
 
@@ -2042,7 +2042,7 @@ As an Architect, you can change how you appear in digital space in radical ways,
 
 **Jon:** Let’s see, a 5 and a 3. And +1 for the Cyberbrain. I think he’s still pretty anxious, so I’ll mark Scared again, too. I think what I want to be in is military garb, the same as Winston and the other soldier only at a higher rank so I might have a chance to take charge of the situation. That’s a 9.
 
-MC: So close! Alright, well it’s a little early to be bringing in the big guns, but it would be cool to have something happen that unnerves you and shows everyone that the digital world responded. You said before that you actually were in the army before you were discharged, so maybe something from a time you were really Scared happens?
+**MC:** So close! Alright, well it’s a little early to be bringing in the big guns, but it would be cool to have something happen that unnerves you and shows everyone that the digital world responded. You said before that you actually were in the army before you were discharged, so maybe something from a time you were really Scared happens?
 
 **Jon:** Hmm...sure, yeah. Let’s say there was this time that a grenade got thrown over a hill and bounced right off my head. I froze when it did, to my embarrassment. One of the other guys dove on it and died when it blew up. Always felt so guilty that it wasn’t me.
 
@@ -2572,7 +2572,7 @@ In every case when intimacy might be happening, the player works with the MC to 
 
 **Amy:** I need to stop to get her at some point... I do have that Hold from when Jaxx and I were intimate. Maybe what happens is that I’m running by the living area, right, with the furniture getting shredded when that moment with Jaxx flashes into my mind and I think about us. I’ll use my Hold to draw strength from that in order to suppress Trigger.
 
-MC: So what is it about this couch being shredded or the living room being messed up, that makes you think of Jaxx, though?
+**MC:** So what is it about this couch being shredded or the living room being messed up, that makes you think of Jaxx, though?
 
 Amy:Oh man, well we hated each other in the beginning but I was the first one to break down his barrier he always has up that he has; we stayed up all night talking on the sofa, which you know, led from one thing to another, on this now-shredded couch. Which is when we activated our specials. It seems like the idea of that moment being torn apart would definitely provoke a pretty powerful reaction, I’d mark a Spike in Mad, I think? I’m determined to make sure I grab this jerk, so much that I suppress the Trigger from happening in order to get it done. Does that make sense?
 
@@ -2620,11 +2620,11 @@ You completely clear out or fill up all of their emotion Spikes in a different S
 
 What that looks like and feels like for your character is defined entirely by you. When you choose someone present, the idea is that you are able to sense their emotions and choose whether or not to take them into you or otherwise manipulate them. When it’s a PC, ask them what their emotion Spikes are, if anything. If it’s an NPC, ask the MC and they will tell you. Then, proceed with the rest of the move if you choose to actually trigger Absorb.
 
-MC: Alright, Cassi. You’re in the middle of a pretty tense situation. Your group members are pointing their weapons at three security officers in this corp building you all just snuck into. Doesn’t seem like anyone is backing down and the situation is just growing way more tense by the second. What do you do?
+**MC:** Alright, Cassi. You’re in the middle of a pretty tense situation. Your group members are pointing their weapons at three security officers in this corp building you all just snuck into. Doesn’t seem like anyone is backing down and the situation is just growing way more tense by the second. What do you do?
 
 **Elle:** Man, this is a bit more than tense isn’t it....? I think Cassi wants to calm everyone down a bit. She’s going to try and Absorb. Rook is looking pretty tense and she’s basically the leader. I want her calm. I’m going to choose her and drain Scared from her, I see she has a few Spikes. In this situation I think Cassi is feeling Powerful because this is her thing! When we see her on the camera she’s looking strained you know? But also confident, and that shows too. So, the result is an 11, that confidence was well placed! So, I’m going to generate +1 Flow, which means I have 3 now. I don’t lose track of what I’m doing and I don’t Spike out the emotion myself.
 
-MC: Cool, so Rook, you feel the tension drain from you and you know exactly why. When Cassi did this before the only one who could see what was happening was her, but we see the concentration on her when she does it. You’ve got another Flow, but now one of the guards steps forward and shouts at you to put your hands on the floor and looks pretty twitchy, what do you do?
+**MC:** Cool, so Rook, you feel the tension drain from you and you know exactly why. When Cassi did this before the only one who could see what was happening was her, but we see the concentration on her when she does it. You’ve got another Flow, but now one of the guards steps forward and shouts at you to put your hands on the floor and looks pretty twitchy, what do you do?
 
 ## Sling
 
@@ -2642,7 +2642,7 @@ When you get Flow, you store it up. How that looks and works is up to you. It en
 
 **Elle:** OK, I got the juice, right? So now, I wanna Sling, I’ve got 3 Flow so I’ll add +3 to my roll. I get a 4 and 5 for a total of 9 and adding +3, boom! 12! I’ll add a spike in Powerful again, too. So Cassi concentrates and emits this imperceptible field of energy, it probably looks green to her, because it’s Peaceful. I want to Spike out all the Peaceful in here and I want to avoid suspicion or notice, so she does it as subtly as she can, making more effort than normal.
 
-MC: So the twitchy guy, he calms down. You see his chest is rising and falling naturally instead of the rapid breathing he had before. He still has his gun out but you can see the fight drain from him. He looks pretty unsure and maybe a little sleepy even, what do you do?
+**MC:** So the twitchy guy, he calms down. You see his chest is rising and falling naturally instead of the rapid breathing he had before. He still has his gun out but you can see the fight drain from him. He looks pretty unsure and maybe a little sleepy even, what do you do?
 
 ## Ease
 
@@ -2662,7 +2662,7 @@ Most of the time, people are restricted to the normal options listed in the Prob
 
 **Elle:** She steps up to the guards and addresses the main dude who seems like he’s in charge. Before I talk to him, I want to size him up and see what’s going on with him—make sure he’s pliable. If he’s unsure, he may still be a threat, right? I’m feeling cautious, so I’ll mark the emotion spike in Mad, since that’s skeptical and I think it fits. With an 8, I get one question...hmm. If I asked him to lay down his weapons, how would he feel?
 
-MC: He would feel relieved, he’s especially not partial to violence right now! He knows what he should do is trained to do, but it doesn’t reconcile with what he’s feeling right now.
+**MC:** He would feel relieved, he’s especially not partial to violence right now! He knows what he should do is trained to do, but it doesn’t reconcile with what he’s feeling right now.
 
 **Elle:** So in that case, I’ll say, "Please lay down your weapons, there’s no need for anyone to get hurt or die. Just take it easy." And then I’ll like make a motion for everyone to lower their weapons.
 
@@ -2672,7 +2672,7 @@ When you place yourself at personal risk physically, emotionally, or spiritually
 
 Whatever you choose for this option, this will be your reward for fulfilling your character’s perspective on their burden, granting you some more flexibility with how they are able to get Flow.
 
-MC: I think this goes along with your option you chose for your burden: to help others when you can. Go ahead and take +1 Flow for doing that if you think so, too.
+**MC:** I think this goes along with your option you chose for your burden: to help others when you can. Go ahead and take +1 Flow for doing that if you think so, too.
 
 ## Search Feelings
 
@@ -2680,7 +2680,7 @@ When you read the emotional residue of an area to reconstruct past events, roll.
 
 The Empath can read emotions left behind as though they were footprints. You can attempt to figure out what took place in a specific area, extrapolate from what you can see with that reconstruction, and get a clearer picture as to what happened. Depending on your roll, the MC will give a varying amount of information. On a 10+, it should feel like at the end of what the MC says, you have a pretty clear picture of what transpired. On a 7–9 though, it could be disjointed, out of sync, confusing or vague, but you do get information enough to form an impression. After that, it’s up to you.
 
-MC: After that tense stand off we are now in the upper floor offices of the building you guys just infiltrated. Rook does have a picture of the man you’re all searching for, but not a name.
+**MC:** After that tense stand off we are now in the upper floor offices of the building you guys just infiltrated. Rook does have a picture of the man you’re all searching for, but not a name.
 
 **Elle:** So I want to like CSI this thing. I want to try and figure out what’s happened. Maybe I can interact with these things hanging around the area by touching objects around me and investigating the rest of the surroundings, or something?
 
@@ -2718,7 +2718,7 @@ Once per session you may choose to suppress or manipulate an emotion in yourself
 
 There’s always a price! Suppressing an emotion is powerful but you then have to add an additional Spike, it can add up very quickly. It’s helpful if you’re about to Spike out or someone else is about to, especially during a particular time of need...But emotions always need to be dealt with at some point, especially when you can’t Absorb your own emotions. Plus, with a limit of once per session, who knows when you might _really_ need it.
 
-MC: For sure! OK, and did you mark an emotion Spike, since it’s a move still?
+**MC:** For sure! OK, and did you mark an emotion Spike, since it’s a move still?
 
 **Elle:** Well for Cassi, this would be pretty emotional so I think she feels hurt, which I think I’ll put under Mad. I also think though, that she’s going to suppress this emotion visibly in this scene. She stifles herself so she can get through it, then puts on her tough girl facade, not wanting to break down in front of these folks. So I’ll mark two in Peaceful instead of the one in Mad, since I’m using Hooked On A Feelin’.
 
@@ -2728,7 +2728,7 @@ When the Empath shares a moment of intimacy with someone, be it physical or emot
 
 As the Empath, asking someone those questions is a big deal. You could be playing a protagonist who is not attached to people and wanting to distance themselves from others, or the opposite—where you are trying to form close, personal attachments. The questions from the Ease move are another attempt to allow for multiple play styles.
 
-MC: Is that a shared moment of intimacy, too? I think so, right, what do you think?
+**MC:** Is that a shared moment of intimacy, too? I think so, right, what do you think?
 
 **Elle:** Yeah, I don’t think she’s ever told anyone that, let alone...like, weaponized it. I’ll take the +1 Flow and ask the suit, "What do you feel the most responsible for?" I guess maybe I just learn it through the connection we had from the Charged Object, hey?
 
@@ -2774,11 +2774,11 @@ Each new session, you’ll need to roll to see what mandatory contracts come int
 
 **Rex:** Alright, let’s get this party started, nice, Farooq is already lucky! Landed a 12, including the +1 from Capital. Let’s go with... protection detail, misdirecting someone annnnd maintaining appearances.
 
-MC: OK, you get called upstairs big guy. You probably hate going to the board hey? They’re on the top floor and they always meet in this creepy meeting room with lighting that obscures their faces, ya know?
+**MC:** OK, you get called upstairs big guy. You probably hate going to the board hey? They’re on the top floor and they always meet in this creepy meeting room with lighting that obscures their faces, ya know?
 
 **Rex:** Oh yeah, I know, and every time I go they want something from me.
 
-MC: And today is no different my friend! You go in and the main guy in the center, the one who always talks tell you they "need" your help. This time it’s about protecting the CEO of the corporation. He’s been receiving threats and they need you to ensure his protection (Protection detail). There’s someone out to kill him for sure, the threat is now verified (Misdirecting someone). We can’t lose face here. It must be done perfectly (Maintaining appearances).
+**MC:** And today is no different my friend! You go in and the main guy in the center, the one who always talks tell you they "need" your help. This time it’s about protecting the CEO of the corporation. He’s been receiving threats and they need you to ensure his protection (Protection detail). There’s someone out to kill him for sure, the threat is now verified (Misdirecting someone). We can’t lose face here. It must be done perfectly (Maintaining appearances).
 
 Sometimes Mandatory contracts are all separated, it depends on the MC, but the MC of this game decides with a 10+, the extra bonus for Rex is going to be having all the contracts built into one specific goal, and doing it all well.
 
@@ -2790,19 +2790,19 @@ Everyone else does not have this option with Cred, they can use it in an effort 
 
 **Rex:** Alright, cool. I think my first reaction is to hit up a contact I’ve had a while, they’re in a more nefarious section of town, of course.
 
-MC: Alright, so this is your contact, tell me what this place is, paint me a picture here.
+**MC:** Alright, so this is your contact, tell me what this place is, paint me a picture here.
 
 **Rex:** Yeah, so this place is a damn dive, dude. It’s one of those places where it’s an Italian pizzeria type thing. An obvious front for my man Ivan. I walk in like I own the place. Anyways, I myself know that’d be pretty run down, if it wasn’t for augmented reality—but with it running, it looks pretty damn nice, even prestigious. The place is always packed because it maintains that homey, family restaurant type of feel. I signal Ivan by ordering my usual, some pretentious thing like escargot that no one ever orders. It’s out of place and strange to have on the menu, used to order something off of the menu.
 
-MC: There’s people around you in booths eating various foods. There’s the pictures of all the awards they’ve won, probably, and everything appears clean but isn’t really. If anyone has tech that can piece The Veil, they’d know. Before long, just as you expected, Ivan comes with your food and greets you. What does he look like?
+**MC:** There’s people around you in booths eating various foods. There’s the pictures of all the awards they’ve won, probably, and everything appears clean but isn’t really. If anyone has tech that can piece The Veil, they’d know. Before long, just as you expected, Ivan comes with your food and greets you. What does he look like?
 
 **Rex:** He’s a big burly Russian-looking dude with a goatee and black hair. He’s built like a brick house but always seem in good spirits, around me anyhow.
 
-MC: "MY FRIEND! How are you? As you can see I’m busy tonight but always happy to see you. What can I do for you?" He spreads his hands out as he finishes, a gesture meant to make you feel welcome.
+**MC:** "MY FRIEND! How are you? As you can see I’m busy tonight but always happy to see you. What can I do for you?" He spreads his hands out as he finishes, a gesture meant to make you feel welcome.
 
 **Rex:** I start eating and make with the pleasantries as well, then I get down to business. "Ivan, I need to find good help these days, perhaps you know what I mean? The corporation is...uncomfortable recently. They would feel better with an upgraded interior, all the decor, some auto molding to help the posture, it’s just...so in vogue these days, you know this? I would be pleased if you could arrange something like that...as would they." And I slide over 2 Cred to him. I want him to fight for me and I’m purposing 1 Cred each per Obligation ask. So I want 2 people to fight for me. I’m feeling anxious I think, and mark a Spike in my Scared emotion. Even though I’m presenting a formidable appearance, I really don’t know how this is going to go.
 
-MC: "Hmm oh yeah, I think I know what you mean, my friend. Yes, yes," he nods to you and tells you he must be going but he will send what you need to your suite, as usual. When you get back to your offices you find two men who look like secret service agent type fellas. They are waiting for their orders. What do you do?
+**MC:** "Hmm oh yeah, I think I know what you mean, my friend. Yes, yes," he nods to you and tells you he must be going but he will send what you need to your suite, as usual. When you get back to your offices you find two men who look like secret service agent type fellas. They are waiting for their orders. What do you do?
 
 ## Prestige
 
@@ -2836,7 +2836,7 @@ This move abstracts the entire contract you give to someone else, keeping in min
 
 **Rex:** That’s what I’m thinking...OK, well I kiss her hand as she clearly assumes and smile, then walking past her, I go to my bar. I pour the best single malt whiskey I have in a glass with one of those fancy huge ice ball things and give it to her along with 2 Cred, the implications of which I will explain, but first—I ask those two gentlemen to give us some privacy for a second.
 
-MC: I feel like you want to have time and solitude with her, is that right?
+**MC:** I feel like you want to have time and solitude with her, is that right?
 
 **Rex:** Better believe it, I’m going to try and do my move. BAM, an 11 with 2 Cred being dropped, and I’m feeling... Sad, maybe? I am a good guy at heart, so I probably feel bad I’m manipulating her but I gotta hurry this along so I can make sure my mandatory contract goes off without a hitch here. So I hand her the glass, slide her some Cred, and tell her before she gets what she wants from me, I need this done. We discuss the details of what I need from her. If that’s cool, I get all 4 options with the roll. And I want this contract to be the misdirection mandatory contract, I have the security detail already.
 
@@ -4175,7 +4175,7 @@ Let them feel the ripples of something larger at play.
 
 No matter the world you create, there is always some kind of conflict. Fiction craves it and good stories always have drama. Communities form in all manner of circumstances; from cities, to dunes in the sand, or the wastes of the unknown. Whenever protagonists are in a certain area, consider shoving them in a conflict specific to this community and see if they pick sides. Maybe they choose a cause or just look out for number one and leave. If they go looking for Cred or tech, maybe they find people there who have these things and need something in return. Solutions to their problems could breed problems. Old conflicts touched on by opening Obligation questions or even conflicts being introduced stemming from initial world building. Whatever it is, there is always conflict in the world, even in the future.
 
-MC: When you go to Jack to get the Cred he owes, you find him slumped over on the ground gasping for air. He’s fading fast and you see him clutching the side of his neck. When he pulls it away blood is pouring down from it and he sees you, attempting to speak. Unfortunately, it’s just gurgling and bubbling noises as he’s fading away. The last thing he does though—is reach out and touch the emblem on your duster. The symbol of your old unit. The unit you deserted.
+**MC:** When you go to Jack to get the Cred he owes, you find him slumped over on the ground gasping for air. He’s fading fast and you see him clutching the side of his neck. When he pulls it away blood is pouring down from it and he sees you, attempting to speak. Unfortunately, it’s just gurgling and bubbling noises as he’s fading away. The last thing he does though—is reach out and touch the emblem on your duster. The symbol of your old unit. The unit you deserted.
 
 ## Reveal an unwelcome truth
 
@@ -4198,7 +4198,7 @@ At the heart of any session and campaign should be the Final Question. Created a
 
 Putting someone in a spot is neatly between a soft and hard move. They still have options, but the tension and repercussions are apparent. Whether you threaten them directly or an NPC they care about, on the screen or off the screen; giving them the choice between the two is a surefire way of having them make a move. _The Veil_ is a dangerous place. Everyone is in mixed reality and could possibly leap into an entirely digital world. They’re all connected, there’s a million ways you could make them choose between things they care about. Hit them with a hard choice between the things they care about.
 
-MC: When you run out of the train, you find Winston and Roger on the platform. You see a strange burst of light emit from the sky. As you look back down, the console they’re working on blows apart and they’re tossed to the ground. The techno organic virus is eating them alive and they’re both screaming. Winston’s got his hand extended toward you, pleading for help. Then Roger lets out a gasp between the shrieks. You follow his eyes and see a tall, black-skinned man with white face paint on. It looks like a skull. He’s just casually strolling right up to Roger. I think you know who that is, right? What do you do?
+**MC:** When you run out of the train, you find Winston and Roger on the platform. You see a strange burst of light emit from the sky. As you look back down, the console they’re working on blows apart and they’re tossed to the ground. The techno organic virus is eating them alive and they’re both screaming. Winston’s got his hand extended toward you, pleading for help. Then Roger lets out a gasp between the shrieks. You follow his eyes and see a tall, black-skinned man with white face paint on. It looks like a skull. He’s just casually strolling right up to Roger. I think you know who that is, right? What do you do?
 
 ## Inflict or trade harm
 
@@ -4206,7 +4206,7 @@ Harm is the most direct way to make the protagonist care about something immedia
 
 Intent and clarity is important in every situation and needs special attention when it could result in a protagonist being hurt or killed.
 
-MC: As you try and run to Roger, Memory Box gets there first. He looks directly at you almost quizzically as he levels his antique revolver at Roger and pulls the trigger. Winston is still shouting and you’re almost to him, what do you do?
+**MC:** As you try and run to Roger, Memory Box gets there first. He looks directly at you almost quizzically as he levels his antique revolver at Roger and pulls the trigger. Winston is still shouting and you’re almost to him, what do you do?
 
 Eight matte, black humanoid shapes drop down in reflective gear masking any discernible feature they must possess. They’re well-armed, they know what they’re doing. You guys are hardcore but you can bet your ass they are too, if you decide to fight them, it’s not going to be easy, you might live but chances are in the time you take out a couple, the others will be on you. What do you want to do?
 
@@ -4214,49 +4214,49 @@ Eight matte, black humanoid shapes drop down in reflective gear masking any disc
 
 Sometimes the players can’t think of something to do about a problem or situation—or simply don’t like the presented choices—an NPC has the answer to the problem. And, according to their Motivation, also wants something the protagonists aren’t thinking of for that answer—like Obligation or Cred. Be honest about the offer; look at the Motivation and what the NPC wants. Don’t wait around while the players talk and talk about plans for ages. Just throw them a solution with a baited hook. In a more indirect way, you should be making this move in every scene you frame. Tell them what they see and hear or smell, even mention how certain things could be advantageous for them. Then make it clear what could happen if they were to act on it.
 
-MC: Memory Box looks at you all and grins. He’s so much younger than you all know him to be and you know you’re inside Winston’s mind. Within some memory trying to fix what went wrong. You know Memory Box is the problem but you also didn’t sign up for this, either. He reaches out his hand and says, "Give me the pocket watch, I’m only doing what I’m supposed to. What I was made to do. This has already happened. It is a memory. You can’t change the past. I’ll allow you all to leave, right now. No Harm done and Winston will never know." What do you say?
+**MC:** Memory Box looks at you all and grins. He’s so much younger than you all know him to be and you know you’re inside Winston’s mind. Within some memory trying to fix what went wrong. You know Memory Box is the problem but you also didn’t sign up for this, either. He reaches out his hand and says, "Give me the pocket watch, I’m only doing what I’m supposed to. What I was made to do. This has already happened. It is a memory. You can’t change the past. I’ll allow you all to leave, right now. No Harm done and Winston will never know." What do you say?
 
 ## Reveal off-screen badness
 
 Sometimes the players should know what’s going on in the background, if only to drive more tension or show consequences that don’t need to be looked at through a scene they are participating in. It shows them the characteristics of the other players on the board, possibly the means and lengths they’re willing to go to in order to get their own agenda done, too. It’s a TV show or movie, remember that. Let the villain do their evil monologue sometimes. Let them display the inevitable double crosses. It’s a good way of showing the world as being alive and vibrant and other stuff happening aside from what they’re all doing. If they don’t know these things it’s like they never happened at all. They could be really neat moments that never get explained or showcased because they are never revealed to the players. A missed opportunity on your part.
 
-MC: Let’s close out this session with Memory Box posing that question. And before we end, the camera pans out on you guys and zooms out of Winston’s head altogether. We see his study with his collection of ancient artifacts and his robotic butler and maid monitoring all of you, connected to his throne like contraption as you all slumber. We all know time goes by differently in the digiscape though. It seems to almost stop, then go by slowly now, on the screen. And as it pans further we see Memory Box walking his way through Winston’s opulent palace, making his way to the study; to you.
+**MC:** Let’s close out this session with Memory Box posing that question. And before we end, the camera pans out on you guys and zooms out of Winston’s head altogether. We see his study with his collection of ancient artifacts and his robotic butler and maid monitoring all of you, connected to his throne like contraption as you all slumber. We all know time goes by differently in the digiscape though. It seems to almost stop, then go by slowly now, on the screen. And as it pans further we see Memory Box walking his way through Winston’s opulent palace, making his way to the study; to you.
 
 ## Turn a move back on them
 
 Consider the most interesting thing in the fiction may be to allow them to have exactly what they want; it builds tension. "Wait, so...we just get it? No alarms, no traps...we just get the thing?" Let them have their victory. And more! Give them an unexpected consequence from getting the thing they wanted that they hadn’t considered. The world reacts to their successes, too, show that on the screen as well!
 
-MC: So you took out Memory Box, well done! You’re back in the study, waking up now. Winston too. He seems startled and his eyes are darting around. He cries out, "Who ARE you people, what the hell are you doing in my study!?" Seems maybe having the gun fight across his memories may have been bad...What do you do?
+**MC:** So you took out Memory Box, well done! You’re back in the study, waking up now. Winston too. He seems startled and his eyes are darting around. He cries out, "Who ARE you people, what the hell are you doing in my study!?" Seems maybe having the gun fight across his memories may have been bad...What do you do?
 
 ## Offer or claim an Obligation
 
 Obligation is one of the central mechanics to _The Veil_. On top of Cred, it represents a commodity—one that may be in play more often than Cred, depending on the type of world people want to get out of play. If they’ve been Refuting people that are trying to collect on their Obligations frequently, it’s about time that person comes calling. Both parties need to know there is Obligation being owed here though; or Obligation isn’t involved at all! Obligation is always known by both parties. This is a great way to get NPCs interacting with the players who may have gone into the background for a while or bring the focus back the other people in the world. If there’s been a lot of interpersonal play only between players, call in an NPC Obligation.
 
-MC: There’s a shrill laugh behind you all. You see a much older looking Memory Box. He has the same laugh though, and looks delighted. "Oh, my thank you. It appears you’ve done my work for me. When that poor fool asked me to modify his memory 40 years ago, well; It was just me learning. I live on in all of my subject’s minds you know. And when I went to Cid in order to collect on a...favor. Well, he told me the only thing he had to offer was information on you all..."
+**MC:** There’s a shrill laugh behind you all. You see a much older looking Memory Box. He has the same laugh though, and looks delighted. "Oh, my thank you. It appears you’ve done my work for me. When that poor fool asked me to modify his memory 40 years ago, well; It was just me learning. I live on in all of my subject’s minds you know. And when I went to Cid in order to collect on a...favor. Well, he told me the only thing he had to offer was information on you all..."
 
 ## Take away something of theirs
 
 The things that they get when choosing their playbook shouldn’t be taken away unless the fiction is really calling for it. That’s their stuff, as such—it’s a bit offside to destroy it or take it away, so long as it is Gear that came with their playbook or they spent time in the fiction procuring it. However, they have many things, or should, in the fiction. And those things are always fair game when it makes sense in the fiction. Some moves call for a cost. When someone is being Risky and strikes 7–9, well that’s a prime opportunity there to make them choose between their stuff and the thing they wanted to do. You want your thing or you want to get what you want? Let’s find out.
 
-MC: OK, Epoch, you want to get out of there, hey? You were trying to run up a fire escape, right? Well I think what happens is that bag you’re carrying full of Z’s evidence and oddments and what not, gets caught. The cops are shouting at you to stop what you’re doing and lay on the ground and all that; a few are making their way up the fire escape after you, what do you do?
+**MC:** OK, Epoch, you want to get out of there, hey? You were trying to run up a fire escape, right? Well I think what happens is that bag you’re carrying full of Z’s evidence and oddments and what not, gets caught. The cops are shouting at you to stop what you’re doing and lay on the ground and all that; a few are making their way up the fire escape after you, what do you do?
 
 ## Tell them the consequences and ask
 
 Players should be informed of what their decisions are going to cost; most of the time, anyways. Their protagonists are the main thread in this woven story and they’re getting all their information from you. They can see and think and feel and hear in this fiction. If there’s something obvious that could happen based on what they want to do, tell them. Do what honesty demands. If you tell them what will happen if they do a thing and they do it, follow through—Always. Don’t break your Principles and stand by. This follows along with establishing stakes in conflicts that could result in Harm. If the people they’re fighting are beyond them, there’s too many of them, or they have a misconception of what they could do or how effective they could be in the situation, always tell them the consequences and ask.
 
-MC: You’re standing on the roof now Epoch. The cops are storming up there but you left the bag! You’re free and clear for the moment. You’re on the roof though. Only thing you see is a large garbage bin for the complex to use, but that’s like a few stories down, man. It’s a way out, sure—but it’s something that’s going to hurt. It all depends on what you want to do. So, what do you want to do?
+**MC:** You’re standing on the roof now Epoch. The cops are storming up there but you left the bag! You’re free and clear for the moment. You’re on the roof though. Only thing you see is a large garbage bin for the complex to use, but that’s like a few stories down, man. It’s a way out, sure—but it’s something that’s going to hurt. It all depends on what you want to do. So, what do you want to do?
 
 ## Activate their stuff’s downside
 
 You have tons of things that could go wrong with the protagonists at any given time. Their stuff doesn’t have to be taken away completely. It can break, especially their cybernetics. There is a list of negative Tags everyone has when they create their cybernetics. There’s a spot on the MC worksheet to place those. Whenever there’s a natural place for that negative Tag to come into effect in the fiction, like say, when a miss is rolled and they’re using that stuff. It could be a limitation that’s apparent in the Tag a weapon has as well. Trying to use a futuristic pistol on someone who’s wearing Armor that it’s not effective against, for instance. Turn the thing they _see_ as useful or as an ally around on them. It’s a good way to drive home the cost of the things they have, including cybernetics. Range Tags should always be kept in mind and aren’t considered to be a downside, as everyone should be aware of them at all times anyways, but things like running out of ammo, technology having bugs, things breaking down, and stuff being less effective in specific circumstances are a good place to start. Range Tags are especially easy to forget and vital to keeping a consistent fiction. One that depicts the limits of what the players’ tech can do, and by extension, the protagonists themselves.
 
-MC: When you dive off the building for the large bin despite your interfaces warning you of impending danger. It suddenly shut down; all you hear is an ominous repeated soft voice saying that it’s rebooting. It looks like you don’t have access to that kind of information now, until you sort that out. The cop’s employing dampeners, looks like. What do you do?
+**MC:** When you dive off the building for the large bin despite your interfaces warning you of impending danger. It suddenly shut down; all you hear is an ominous repeated soft voice saying that it’s rebooting. It looks like you don’t have access to that kind of information now, until you sort that out. The cop’s employing dampeners, looks like. What do you do?
 
 ## Separate them
 
 A great way to build tension is to have them facing their own difficulties in different situations of conflict. Show that they’re vulnerable, usually need each other, and have their own agenda to worry about, just like everybody else. It’s also incidentally a good way of allowing for a shy player to shine. If one player is contributing a little bit _too_ much and someone else isn’t doing much at all. If they’re away from that player fictionally, they may feel keener to contribute. It might not work, but it’s something to try. If it works—great. You now know they are into contributing more but don’t feel able to with others monopolizing the conversation; it can be addressed. If not, maybe they’re still shy, but you can coax them through the system and give them more agency to act on as they’re exploring their own path for a while—even if it’s in a bad spot.
 
-MC: Alright, so. You walk into your safe house and immediately can feel something is wrong. Things aren’t where you left them. You look around and that is when the safe room door closes and engages in lockdown procedure—with the other guys outside! What do you do?
+**MC:** Alright, so. You walk into your safe house and immediately can feel something is wrong. Things aren’t where you left them. You look around and that is when the safe room door closes and engages in lockdown procedure—with the other guys outside! What do you do?
 
 ## Invoke a sense of the uncanny
 
@@ -4448,7 +4448,7 @@ Remember that the exchange of moves is not always a back and forth. Sometimes yo
 
 **Rags:** Makes sense, I think I’m still anxious, and it’s building for sure—I’ll mark my Scared emotion. End up getting an 8.
 
-MC: OK, well yeah. You’re running and you see that the spotlight shifts to you so it’s not on your men anymore but in you getting what you want...You get what you want. You start hearing hooting and hollering. ALL the attention is on you now, what do you want to do? {Could be: separate them, turn a move back on them, take away something of theirs}
+**MC:** OK, well yeah. You’re running and you see that the spotlight shifts to you so it’s not on your men anymore but in you getting what you want...You get what you want. You start hearing hooting and hollering. ALL the attention is on you now, what do you want to do? {Could be: separate them, turn a move back on them, take away something of theirs}
 
 ### HARM AND HEALING WITH NPCs
 
