@@ -64,13 +64,13 @@ The only thing you really need to play, other than this book, is at least one ot
 
 Generally, you’ll be breaking up sessions of play into 2–4 hour blocks of time. You can play the game a single time in a one-shot session and leave it there, or turn it into a campaign and play for as long as you want. In fact, the best stories will probably be the ones that continue for some time, with your protagonists evolving along with the fiction. You’ll also need to print out the character playbooks and reference sheets that came with your digital copy of the game. You may want to have a copy of this book on hand as well in case you need to reference something.
 
-DICE You’ll need two standard six-sided dice. Although you could get by with one set, it’s best if everyone has their own. Six-sided dice are very common and should be easy to find. If you’ve got board games in your house, you can probably co-opt some from there.
+**DICE** You’ll need two standard six-sided dice. Although you could get by with one set, it’s best if everyone has their own. Six-sided dice are very common and should be easy to find. If you’ve got board games in your house, you can probably co-opt some from there.
 
-PLAYBOOKS There are a number of different archetypes that you can choose for your protagonist when you create your character. Each one is unique and has their own approach as to how they may fit into the fiction and interact with the world. Each one also has a special sheet you fill out and use when you choose it. These are called playbooks and each player needs to have a copy printed and ready for use when they sit down to play. You can print one of each of them and players can choose which one they like when you sit down to play your first game.
+**PLAYBOOKS** There are a number of different archetypes that you can choose for your protagonist when you create your character. Each one is unique and has their own approach as to how they may fit into the fiction and interact with the world. Each one also has a special sheet you fill out and use when you choose it. These are called playbooks and each player needs to have a copy printed and ready for use when they sit down to play. You can print one of each of them and players can choose which one they like when you sit down to play your first game.
 
-PENCIL AND PAPER There are spaces and choices in each character sheet to fill out, so everyone will need something to do that with—pencils are best since things will need to be erased or changed as the story progresses. Make sure you keep it safe! If you lose your character sheet, you’ll have to remember all of the options you chose and any information you selected and wrote down.
+**PENCIL AND PAPER** There are spaces and choices in each character sheet to fill out, so everyone will need something to do that with—pencils are best since things will need to be erased or changed as the story progresses. Make sure you keep it safe! If you lose your character sheet, you’ll have to remember all of the options you chose and any information you selected and wrote down.
 
-ODDS AND ENDS The game is more immersive if you are familiar with the cyberpunk media everyone else is riffing off of, but if you aren’t, a great way of getting people into the mindset and aesthetic you’re envisioning is printing off pictures. Photos help with portraying themes, concepts, and what the setting might look like. When you sit down to your first session you and the other players will talk more about this.
+**ODDS AND ENDS** The game is more immersive if you are familiar with the cyberpunk media everyone else is riffing off of, but if you aren’t, a great way of getting people into the mindset and aesthetic you’re envisioning is printing off pictures. Photos help with portraying themes, concepts, and what the setting might look like. When you sit down to your first session you and the other players will talk more about this.
 
 Finally, there are some more handouts you’ll want to have at the table other than character sheets, mostly for use by the person who chooses to be the MC. Everyone should have a copy of the basic moves and the MC should have all of their first session worksheet and a copy of their own moves in front of them for their reference at all times.
 
@@ -78,15 +78,42 @@ Finally, there are some more handouts you’ll want to have at the table other t
 
 In cyberpunk, a prevalent theme is how cultures might mix together in the future. _The Veil_ has also taken this into consideration and has incorporated some popular elements into the game itself. Giri, enlightenment, and humanity are concepts in every culture. Giri is fairly common in in cyberpunk fiction, whereas enlightenment is a universal concept exemplified by Buddhist monks and other individuals and all faiths around the world. Lastly, humanity as tied to the concept of identity and the prospect of having characters confront their own along with the potential harm that could do to a person is explored via a specific mechanic as well. I felt that using the Chinese characters for the following three terms lent itself well to the aesthetic of _The Veil_ in my own game, so I encourage people to similarly change any terms used as needed to suit the culture they choose to play in.
 
-**GIRI:** The concept of debt as pertaining to a duty or obligation to another. **ENLIGHTENMENT:** A form of currency used in the game for the Seeker playbook. **HUMANITY:** A type of harm endured when a protagonist is faced with a hard truth about themselves or their beliefs are shaken. **AGENCY:** The protagonists you portray in the game all have control over their own actions, what they say, what they do, all has an impact on the story. In most role-playing games this is normal, in this one it’s more prevalent because it’s a collaborative world being created by you. The players have a lot of agency and it directly impacts what happens next and where the story is going. Your decisions have consequences, you will have the information necessary to make decisions based on that information and the result will be a story that is improvised from what you say and do as protagonists in the game. When you do these things, this is your agency being asserted. **CHARACTER SHEET (PLAYBOOK):** Every protagonist will have a sheet of paper with the important information that they need describing their character. If it’s pertinent to the protagonist, it will be on the sheet in order to help you remember what you need to know about them. **CYBERTOME:** A term referring to a device possessed by one of the character archetypes you can play, known as the Onomastic, described more in detail on that playbook. What “it” is and what is contained within it is chosen by the Onomastic when and if they are able to open it.
+**GIRI:** The concept of debt as pertaining to a duty or obligation to another. 
+**ENLIGHTENMENT:** A form of currency used in the game for the Seeker playbook. 
+**HUMANITY:** A type of harm endured when a protagonist is faced with a hard truth about themselves or their beliefs are shaken. 
+**AGENCY:** The protagonists you portray in the game all have control over their own actions, what they say, what they do, all has an impact on the story. In most role-playing games this is normal, in this one it’s more prevalent because it’s a collaborative world being created by you. The players have a lot of agency and it directly impacts what happens next and where the story is going. Your decisions have consequences, you will have the information necessary to make decisions based on that information and the result will be a story that is improvised from what you say and do as protagonists in the game. When you do these things, this is your agency being asserted. 
+**CHARACTER SHEET (PLAYBOOK):** Every protagonist will have a sheet of paper with the important information that they need describing their character. If it’s pertinent to the protagonist, it will be on the sheet in order to help you remember what you need to know about them. 
+**CYBERTOME:** A term referring to a device possessed by one of the character archetypes you can play, known as the Onomastic, described more in detail on that playbook. What “it” is and what is contained within it is chosen by the Onomastic when and if they are able to open it.
+**DIGITAL ENVIRONMENT/DIGISCAPE:** Within the fiction of the game, there is both a physical environment that overlaps with the digital one, and one that characters in the world interact with by entering it, interpreting and manipulating information directly in their minds. In this purely digital space, every person has a representation of themselves (essentially, very much like _The Matrix_). 
+**EMOTION SPIKES:** A currency within the game that quantifies how much of any given emotion a protagonist is feeling. There are five check marks next to each emotion, which are the stats used in _The Veil_. 
+**ESSENCE:** An essential resource managed by the Wayward playbook that allows them to do some of their unique abilities. 
+**THE FICTION:** When the players are having a conversation about what happens within the game, the fiction is what is being referred to. This applies to anything to do with what’s happening in the collaborative world you build together via your conversation. 
+**FLAVOR:** When someone describes what’s happening or says something that furthers the tone of the game or embellish their actions or description of the world around them that does not interact with the mechanics of the game, such as rolling dice to find out what happens next. 
+**FLOW:** A resource managed by the Empath playbook that enables them to manipulate emotions as well as other things unique to them. 
+**HARM:** This is the term used to quantify damage, whether physical or mental, in the fiction of the game world. 
+**HIT:** A hit is a term used to describe a positive outcome on the dice. It can be a weak hit or a strong hit. A weak hit means it is not a complete success and that there may be a cost to succeeding, whereas a strong hit means the player succeeds without cost. 
+**MC:** Master of Ceremonies. The player who portrays the fiction and the characters other than the player characters in it. They are also responsible for setting up and framing most scenes, and moderating the conversation at the table. **MISS:** A miss is a term used to describe a negative outcome on the dice. 
+**MIXED REALITY:** A reality where the digital and the physical are intermingled into one reality with both occupying the same space. **MODIFIERS:** An integer that is added to a die roll. 
+**MOTIVATIONS:** Non-player characters have one defining Motivation within the story to get something specific. When the person running the game portrays them, their Motivation dictates how they act and react in the game. 
+**MOVES:** The major way players interact with the game fiction from a mechanical perspective. The conversation about what is happening in the game sometimes triggers moves, which influences the direction that the story then takes. More on moves on page 28. 
+**NEUROCHIP:** Most of the people in the fiction will have a neurochip, which constantly feeds them with information on what the world looks like, smells like, feels like, etc. It alters normal perceptions of reality to present something new; this is referred to as mixed reality or a hybrid reality. 
+**NEGATIVE TAGS:** A negative tag is the same as a normal tag except that the MC uses them when a player misses on the dice and makes a move against the players. It’s also giving the MC ideas as to how to have things affect those specific players in general during the course of play. 
+**NPC:** Stands for Non-Player Character—anyone in the game that is not a protagonist under the control of a player. This means the MC controls them. 
+**PC:** Player Character, also referred to as a protagonist. 
+**PLAYBOOK:** Playbooks describe a holistic approach to a character a type of player you can choose to play when you create your protagonist. Each one is unique. 
+**PROTAGONISTS:** Also refers to PC, they are the main characters being played by the players of the game other than the MC. 
+**S HARM:** A type of harm; the “s” stands for stun. Stun damage renders the target unconscious and does no lasting physical damage. 
+**SPIKE:** Refers to emotional spikes. A check mark is marked next to an emotion every time a player uses the corresponding stat. Each check mark signifies that the protagonist is experiencing this emotion more intensely. 
+**STATE:** A state is one of six core emotions a protagonist can feel during the game. Each one has a modifier assigned to it during character creation. 
+**TAG:** A tag is a word or sentence used to describe what something is or does in the fiction. It helps to define and characterize an object. 
+**THE VEIL:** In many references in this book, _The Veil_ may refer to either a depository of information not unlike The Internet of today, except that in this game, it also may possess an entity or will within it—depending on the type of cyberpunk story you end up telling. Other times it is simply a reference to this game and the play experience you get from it. 
+**XP:** Experience Points are a currency used in the game that is spent to improve a player character.
 
-TERMS **17** **DIGITAL ENVIRONMENT/DIGISCAPE:** Within the fiction of the game, there is both a physical environment that overlaps with the digital one, and one that characters in the world interact with by entering it, interpreting and manipulating information directly in their minds. In this purely digital space, every person has a representation of themselves (essentially, very much like _The Matrix_). **EMOTION SPIKES:** A currency within the game that quantifies how much of any given emotion a protagonist is feeling. There are five check marks next to each emotion, which are the stats used in _The Veil_. **ESSENCE:** An essential resource managed by the Wayward playbook that allows them to do some of their unique abilities. **THE FICTION:** When the players are having a conversation about what happens within the game, the fiction is what is being referred to. This applies to anything to do with what’s happening in the collaborative world you build together via your conversation. **FLAVOR:** When someone describes what’s happening or says something that furthers the tone of the game or embellish their actions or description of the world around them that does not interact with the mechanics of the game, such as rolling dice to find out what happens next. **FLOW:** A resource managed by the Empath playbook that enables them to manipulate emotions as well as other things unique to them. **HARM:** This is the term used to quantify damage, whether physical or mental, in the fiction of the game world. **HIT:** A hit is a term used to describe a positive outcome on the dice. It can be a weak hit or a strong hit. A weak hit means it is not a complete success and that there may be a cost to succeeding, whereas a strong hit means the player succeeds without cost. **MC:** Master of Ceremonies. The player who portrays the fiction and the characters other than the player characters in it. They are also responsible for setting up and framing most scenes, and moderating the conversation at the table. **MISS:** A miss is a term used to describe a negative outcome on the dice. **MIXED REALITY:** A reality where the digital and the physical are intermingled into one reality with both occupying the same space. **MODIFIERS:** An integer that is added to a die roll. **MOTIVATIONS:** Non-player characters have one defining Motivation within the story to get something specific. When the person running the game portrays them, their Motivation dictates how they act and react in the game. **MOVES:** The major way players interact with the game fiction from a mechanical perspective. The conversation about what is happening in the game sometimes triggers moves, which influences the direction that the story then takes. More on moves on page 28\. **NEUROCHIP:** Most of the people in the fiction will have a neurochip, which constantly feeds them with information on what the world looks like, smells like, feels like, etc. It alters normal perceptions of reality to present something new; this is referred to as mixed reality or a hybrid reality. **NEGATIVE TAGS:** A negative tag is the same as a normal tag except that the MC uses them when a player misses on the dice and makes a move against the players. It’s also giving the MC ideas as to how to have things affect those specific players in general during the course of play. **NPC:** Stands for Non-Player Character—anyone in the game that is not a protagonist under the control of a player. This means the MC controls them. **PC:** Player Character, also referred to as a protagonist. **PLAYBOOK:** Playbooks describe a holistic approach to a character a type of player you can choose to play when you create your protagonist. Each one is unique. **PROTAGONISTS:** Also refers to PC, they are the main characters being played by the players of the game other than the MC. **S HARM:** A type of harm; the “s” stands for stun. Stun damage renders the target unconscious and does no lasting physical damage. **SPIKE:** Refers to emotional spikes. A check mark is marked next to an emotion every time a player uses the corresponding stat. Each check mark signifies that the protagonist is experiencing this emotion more intensely. **STATE:** A state is one of six core emotions a protagonist can feel during the game. Each one has a modifier assigned to it during character creation. **TAG:** A tag is a word or sentence used to describe what something is or does in the fiction. It helps to define and characterize an object. **THE VEIL:** In many references in this book, _The Veil_ may refer to either a depository of information not unlike The Internet of today, except that in this game, it also may possess an entity or will within it—depending on the type of cyberpunk story you end up telling. Other times it is simply a reference to this game and the play experience you get from it. **XP:** Experience Points are a currency used in the game that is spent to improve a player character.
-
-THE CONVERSATION As mentioned before, the game is a conversation. Your job as a player with a protagonist is to describe what your character does, how they do it, what they care about and how they react to what other people are doing. In so doing, everyone else at the table will get a picture in their head of what they look like, how they act, and how their own characters, or other characters in the fiction feel about them. Sometimes you’ll slip right into your character and speak using their voice. On the other hand, you might describe what they do as seen by a camera in a movie, or a disembodied narrator. It’s up to you how you talk about your character, what they feel, and what they do. You’ll probably switch back and forth as needed, and that’s fine—do whatever is natural and fun for you. It’s everyone’s job, though, to keep things interesting. The mechanics of the game, the rules and some tips will help you push the story into interesting places and find a pace to avoid the minutia of everyday life that we deem uninteresting and don’t need to know or care about, and that wouldn’t be shown in a movie or TV show. We look at the characters when they’re being interesting, and we cut away to a new scene when they or the current scene aren’t.
+**THE CONVERSATION** As mentioned before, the game is a conversation. Your job as a player with a protagonist is to describe what your character does, how they do it, what they care about and how they react to what other people are doing. In so doing, everyone else at the table will get a picture in their head of what they look like, how they act, and how their own characters, or other characters in the fiction feel about them. Sometimes you’ll slip right into your character and speak using their voice. On the other hand, you might describe what they do as seen by a camera in a movie, or a disembodied narrator. It’s up to you how you talk about your character, what they feel, and what they do. You’ll probably switch back and forth as needed, and that’s fine—do whatever is natural and fun for you. It’s everyone’s job, though, to keep things interesting. The mechanics of the game, the rules and some tips will help you push the story into interesting places and find a pace to avoid the minutia of everyday life that we deem uninteresting and don’t need to know or care about, and that wouldn’t be shown in a movie or TV show. We look at the characters when they’re being interesting, and we cut away to a new scene when they or the current scene aren’t.
 
 # SCENES
 
-The main way that we accomplish this fast-paced, only-interesting style of play is through the use of scene framing. The best way to find out what is interesting about your protagonist is by putting them in a conflict of some sort and seeing what they do to resolve that conflict. They want or need something. They have something they want to accomplish. They aren’t your average person; they’re the one who wants to face conflict and resolve something significant going on in both their life and the world at large. The MC is the one who will usually be framing scenes, but lots of times you and your players will be the ones filling in the scene; the protagonists’ reactions and feelings to what is going on in the scene and in the fiction inform the fiction more than anything else. It’s the MC’s job to cut and wrap-up a scene when appropriate, moving from one scene to the next, and the conversation will make when to do this obvious. That said, it’s everyone’s responsibility to make sure that these scenes go someplace meaningful for the story. As an MC, all you need to do is begin the conversation. Look at what your agenda is, think what you could get from this scene in terms of the story, as well as what the protagonists want to get out of playing _The Veil_, then go from there. The mechanics of the game will do everything else for you and, to that end, there are lots of tools to help you out in the MC section beginning on page 278\. Gina decides to get the ball rolling by trying to populate the scene with as many protagonists as she can to get everyone involved.
+The main way that we accomplish this fast-paced, only-interesting style of play is through the use of scene framing. The best way to find out what is interesting about your protagonist is by putting them in a conflict of some sort and seeing what they do to resolve that conflict. They want or need something. They have something they want to accomplish. They aren’t your average person; they’re the one who wants to face conflict and resolve something significant going on in both their life and the world at large. The MC is the one who will usually be framing scenes, but lots of times you and your players will be the ones filling in the scene; the protagonists’ reactions and feelings to what is going on in the scene and in the fiction inform the fiction more than anything else. It’s the MC’s job to cut and wrap-up a scene when appropriate, moving from one scene to the next, and the conversation will make when to do this obvious. That said, it’s everyone’s responsibility to make sure that these scenes go someplace meaningful for the story. As an MC, all you need to do is begin the conversation. Look at what your agenda is, think what you could get from this scene in terms of the story, as well as what the protagonists want to get out of playing _The Veil_, then go from there. The mechanics of the game will do everything else for you and, to that end, there are lots of tools to help you out in the MC section beginning on page 278. Gina decides to get the ball rolling by trying to populate the scene with as many protagonists as she can to get everyone involved.
 
 **MC:** Alright, guys. We haven’t seen your characters yet but we know Harper and Hugo live in the same place, we know they use a pub as a dead drop and we can say they just finished a job and need to make the drop. Phil and Claire, you guys are out at this pub when Harper and Hugo walk in, what does this place look like?
 
@@ -132,7 +159,7 @@ Moves are a mechanic in the game that let everyone know that the rules of the ga
 
 **MC:** Sounds good, add your Scared modifier to the roll then and let me know what you get.
 
-When Joan tells the MC that Hannah, her protagonist, tries to roll underneath the path of the bullets so they don’t hit her, she triggers a move called “_Risk_”. Detailed within the move is the description, called a trigger, which reads, “When you are aware of and act to avoid imminent danger, say how you do it and roll”. So Joan rolls her two six-sided dice, which turn up a 5 and a 3, for a total of 8\. After considering the circumstances, Joan decides that her protagonist is scared because she’s getting shot at. Looking at her character sheet, she checks to see what modifier she wrote in at character creation for the “Scared” state. It says she has a +1 in Scared, so she adds that to the total for a final result of 9\. The move’s instructions say that on a 7–9 result on the dice, there will be a cost or complication in order for her protagonist to be successful in what they were attempting to do, so she waits for the MC to tell her what that cost or complication is.
+When Joan tells the MC that Hannah, her protagonist, tries to roll underneath the path of the bullets so they don’t hit her, she triggers a move called “_Risk_”. Detailed within the move is the description, called a trigger, which reads, “When you are aware of and act to avoid imminent danger, say how you do it and roll”. So Joan rolls her two six-sided dice, which turn up a 5 and a 3, for a total of 8. After considering the circumstances, Joan decides that her protagonist is scared because she’s getting shot at. Looking at her character sheet, she checks to see what modifier she wrote in at character creation for the “Scared” state. It says she has a +1 in Scared, so she adds that to the total for a final result of 9. The move’s instructions say that on a 7–9 result on the dice, there will be a cost or complication in order for her protagonist to be successful in what they were attempting to do, so she waits for the MC to tell her what that cost or complication is.
 
 After the move triggers, it will tell you what you need to do next. If you are ever in a situation listed here and a move has not been triggered, check out the basic moves again and make sure a move has not been triggered. All moves can:
 
@@ -144,7 +171,7 @@ Your stats in The Veil are your character’s emotions, called states. What this
 
 Every core emotion has a number assigned to it, which helps give us a picture of what your protagonist is doing in the fiction, and how they look and feel when they’re doing it. Whenever you need to roll, you add the appropriate modifier to the total of your dice roll.
 
-A strong hit means the sum total was over 10\. A weak hit means the sum total was between 7 and 9, and a miss means a result of 6 or lower. Each move has a description of what happens for each of these possibilities. In general, what this means is the narrative shifts from the MC asking questions about what you’re doing, to a temporary focus on you and what your character is doing. On a strong or weak hit, you have the narrative control to say how your protagonist does what they do and how they are successful, up to a point. The amount of harm you deal a person is predetermined by the weapons and armor involved, but what happens in that scene is up to you; you do what you set out to do, so tell the table how you do it! Then, the MC will describe what happens afterward as a result until the next time a move is triggered. On a miss, however, you don’t do what you set out to do, or you do and there are complications or a cost introduced for doing so. The MC maintains control over the narrative when this happens and the players simply listen to find out what happens next.
+A strong hit means the sum total was over 10. A weak hit means the sum total was between 7 and 9, and a miss means a result of 6 or lower. Each move has a description of what happens for each of these possibilities. In general, what this means is the narrative shifts from the MC asking questions about what you’re doing, to a temporary focus on you and what your character is doing. On a strong or weak hit, you have the narrative control to say how your protagonist does what they do and how they are successful, up to a point. The amount of harm you deal a person is predetermined by the weapons and armor involved, but what happens in that scene is up to you; you do what you set out to do, so tell the table how you do it! Then, the MC will describe what happens afterward as a result until the next time a move is triggered. On a miss, however, you don’t do what you set out to do, or you do and there are complications or a cost introduced for doing so. The MC maintains control over the narrative when this happens and the players simply listen to find out what happens next.
 
 **JOAN:** Ok, with my Scared modifier, that makes for a total of 9.
 
@@ -232,7 +259,7 @@ The feeling wheel is used to get people into the headspace of their character, e
 
 ## EMOTION SPIKES
 
-If you look to the side of the states on the character sheet, there are places to mark bubbles. Every time you roll that state, you mark a bubble on it. These are called emotion spikes. The more you roll that emotion, the more intense that emotion will become for that character in the fiction. When you reach the last check mark, you change that state, temporarily, to +1 and all the other ones to -2\. In order for a character to get out of this state where they are experiencing a single emotion acutely, there is a special move, called alleviate. Alleviate is a different type of move from the basic moves in terms of how it works, and will be discussed later on, on page 44\. For now, suffice to say that it is a mechanical tool in the game to help people keep track of how intensely they are experiencing the emotion during gameplay. When you continue to experience something, it grows until it is resolved. When you’re triggering moves and you’re in the same state, things are getting more intense for your protagonist. In the example with Takeshi using his Sad state when searching for his sword, he rolled his modifier, which was -1\. He also would mark one of the bubbles next to his Sad state since that’s what he was when he rolled. Each time he rolls that state he would mark a bubble and, if he should ever mark the fifth bubble, he would trigger the alleviate move.
+If you look to the side of the states on the character sheet, there are places to mark bubbles. Every time you roll that state, you mark a bubble on it. These are called emotion spikes. The more you roll that emotion, the more intense that emotion will become for that character in the fiction. When you reach the last check mark, you change that state, temporarily, to +1 and all the other ones to -2. In order for a character to get out of this state where they are experiencing a single emotion acutely, there is a special move, called alleviate. Alleviate is a different type of move from the basic moves in terms of how it works, and will be discussed later on, on page 44. For now, suffice to say that it is a mechanical tool in the game to help people keep track of how intensely they are experiencing the emotion during gameplay. When you continue to experience something, it grows until it is resolved. When you’re triggering moves and you’re in the same state, things are getting more intense for your protagonist. In the example with Takeshi using his Sad state when searching for his sword, he rolled his modifier, which was -1. He also would mark one of the bubbles next to his Sad state since that’s what he was when he rolled. Each time he rolls that state he would mark a bubble and, if he should ever mark the fifth bubble, he would trigger the alleviate move.
 
 # MITIGATING STATES
 
@@ -248,13 +275,13 @@ Whenever a player is describing an emotion they may remove an emotional spike of
 
 ## ASSIGNING VALUES TO STATES
 
-Every player starts with the same six state values, but can distribute any of the numbers into any state that they like. These values are: -1, 0, 0, +1, +1, and +2\. When you think about the implications of assigning the numbers, remember that a -1 in a state means that things tend to go wrong the most when the protagonist is experiencing that emotion, +2 things most often go their way, and work your way out from there. Furthermore, you could look at it from another point of view and say that the +2 means the protagonist is most comfortable with this emotion, and the -1 means they have problems dealing with or facing this emotion. The zeroes and +1 modifiers are something in the middle—they’re probably pretty familiar with the emotions, and things can go either way for them when in these emotional states. Ultimately, how you go about assigning your states is up to you but it’s good to have a justification in your head for why you’re doing so. During character creation, Joan goes about assigning her states to her protagonist, Hannah. She envisions her as an optimistic and cheerful person so she puts her +2 in Joyful. She sees her not really identifying with being fearful, because she’s so optimistic, she’s only Scared for splitseconds, mostly when she’s surprised. Bearing that in mind, she puts her -1 in Scared. She feels like Hannah has a temper and feels confident most of the time, so she puts +1 in the Mad and Powerful boxes. That leaves her with a 0 in Peaceful, which she figures makes sense given that some of the emotions coming from that core are pensive and thoughtful. Hannah is more likely to react impulsively than think on her actions due to her temper, and is generally pretty daring. When she’s at her lowest is when she’s feeling helpless, insecure, and anxious. When you start playing, sometimes how you think or have your protagonist act or react is different than what you initially thought. Don’t sweat it; at the end of the first session, work with the MC and swap state modifiers to fit your new understanding of your protagonist. After the first session you should have a fairly clear understanding of your character; after the first session, though, if they react differently than how you thought, it’s just the character changing and growing, and being dynamic. Remember to stay away from the idea of emotions meaning that your protagonist is bad or good at something while in this state; it’s better to think of it as just the propensity for the character to act in a certain manner.
+Every player starts with the same six state values, but can distribute any of the numbers into any state that they like. These values are: -1, 0, 0, +1, +1, and +2. When you think about the implications of assigning the numbers, remember that a -1 in a state means that things tend to go wrong the most when the protagonist is experiencing that emotion, +2 things most often go their way, and work your way out from there. Furthermore, you could look at it from another point of view and say that the +2 means the protagonist is most comfortable with this emotion, and the -1 means they have problems dealing with or facing this emotion. The zeroes and +1 modifiers are something in the middle—they’re probably pretty familiar with the emotions, and things can go either way for them when in these emotional states. Ultimately, how you go about assigning your states is up to you but it’s good to have a justification in your head for why you’re doing so. During character creation, Joan goes about assigning her states to her protagonist, Hannah. She envisions her as an optimistic and cheerful person so she puts her +2 in Joyful. She sees her not really identifying with being fearful, because she’s so optimistic, she’s only Scared for splitseconds, mostly when she’s surprised. Bearing that in mind, she puts her -1 in Scared. She feels like Hannah has a temper and feels confident most of the time, so she puts +1 in the Mad and Powerful boxes. That leaves her with a 0 in Peaceful, which she figures makes sense given that some of the emotions coming from that core are pensive and thoughtful. Hannah is more likely to react impulsively than think on her actions due to her temper, and is generally pretty daring. When she’s at her lowest is when she’s feeling helpless, insecure, and anxious. When you start playing, sometimes how you think or have your protagonist act or react is different than what you initially thought. Don’t sweat it; at the end of the first session, work with the MC and swap state modifiers to fit your new understanding of your protagonist. After the first session you should have a fairly clear understanding of your character; after the first session, though, if they react differently than how you thought, it’s just the character changing and growing, and being dynamic. Remember to stay away from the idea of emotions meaning that your protagonist is bad or good at something while in this state; it’s better to think of it as just the propensity for the character to act in a certain manner.
 
 F **ALLEVIATE** Alleviate is a special move that works a bit differently than the basic moves. The basic moves all trigger when something is described in the fiction. While this is also somewhat true for alleviate, what triggers it is the buildup of emotion, which is represented by the emotion spike bubbles next to each state.
 
-When a PC marks the fifth bubble in an emotion all of the modifiers change and the state that the fifth bubble was marked in becomes +1 and all others are temporarily locked in at -2\. In addition, the player chooses one of the following when another move is triggered:
+When a PC marks the fifth bubble in an emotion all of the modifiers change and the state that the fifth bubble was marked in becomes +1 and all others are temporarily locked in at -2. In addition, the player chooses one of the following when another move is triggered:
 
-To keep using the spiked out emotion, in which case the emotion spike in that state decreases by 1\. When all emotion spikes have been removed, all state modifiers go back to normal. To use a different state at a -2\. If they do so they may erase all emotion spikes in the spiked out state. They must still mark an emotion spike in the state they just rolled.
+To keep using the spiked out emotion, in which case the emotion spike in that state decreases by 1. When all emotion spikes have been removed, all state modifiers go back to normal. To use a different state at a -2. If they do so they may erase all emotion spikes in the spiked out state. They must still mark an emotion spike in the state they just rolled.
 
 **MC:** Alright Hermes, you took a shot at the drone and missed, and you spiked out your Mad state in the process, right? So I think what makes sense is you’re just so pissed about missing! You’re the best, but this thing is just too damn nimble and small, you know?! All you see is this bloody drone whipping around like it’s taunting you. So now you’ll take +1 in Mad, and -2 to everything else. What do you want to do about that drone?
 
@@ -306,7 +333,7 @@ When you attempt something that is risky, requires concentration, or requires ke
 
 ## PROBE
 
-When you pay attention, study, or examine someone’s reactions during an interaction in an attempt to learn more about them, roll. On a 10+, hold 3\. On a 7–9, hold 1\. Spend hold 1 for 1 to ask the following questions. When the interaction ends the hold expires.
+When you pay attention, study, or examine someone’s reactions during an interaction in an attempt to learn more about them, roll. On a 10+, hold 3. On a 7–9, hold 1. Spend hold 1 for 1 to ask the following questions. When the interaction ends the hold expires.
 
 * Are you telling the truth?
 * What are you really feeling?
@@ -334,7 +361,7 @@ When you interact with someone and decide to probe them, you’re studying them,
 
 **MC:** Sounds like you’re probing him. Why don’t you roll that for me?
 
-**JAXX:** I’m rolling Sad, because Jaxx is feeling guilty. He was warned these guys were crazy, just didn’t know how crazy. I think with just one emotion spike in it he’s keeping it under wraps though. That’s a 9\. I look at him and wait for the info to be displayed about his biometrics in particular, I’m looking for what he intends to do.
+**JAXX:** I’m rolling Sad, because Jaxx is feeling guilty. He was warned these guys were crazy, just didn’t know how crazy. I think with just one emotion spike in it he’s keeping it under wraps though. That’s a 9. I look at him and wait for the info to be displayed about his biometrics in particular, I’m looking for what he intends to do.
 
 **MC:** You can tell he means it and the biometrics support that. He’s going to shoot someone if you don’t do something, right now. What do you do?
 
@@ -368,7 +395,7 @@ Remember that this move is used to generate information when your protagonist ne
 
 ## ANALYZE
 
-When you use what you have at your disposal to assess a place or situation, roll. On a 10, ask 3\. On a 7–9, ask two. When you act on the answers given to you by the MC, take +1 forward.
+When you use what you have at your disposal to assess a place or situation, roll. On a 10, ask 3. On a 7–9, ask two. When you act on the answers given to you by the MC, take +1 forward.
 
 * Where’s my best way out/way in/way past?
 * How is ____ vulnerable to me?
@@ -385,7 +412,7 @@ If anything appears to be out of place, the MC will tell you. This does not mean
 
 ## ANALYZE
 
-When you use what you have at your disposal to assess a place or situation, roll. On a 10, ask 3\. On a 7–9, ask two. When you act on the answers given to you by the MC, take +1 forward.
+When you use what you have at your disposal to assess a place or situation, roll. On a 10, ask 3. On a 7–9, ask two. When you act on the answers given to you by the MC, take +1 forward.
 
 * Where’s my best way out/way in/way past?
 * How is ____ vulnerable to me?
@@ -458,7 +485,7 @@ you wouldn’t otherwise. A secret, a personal experience or memory, a moment of
 
 ## DIVERT
 
-When you engage with someone in an attempt to distract, misdirect, or otherwise direct attention to yourself or elsewhere, roll. On a 10+, pick 3\. On a 7–9, pick 2\.
+When you engage with someone in an attempt to distract, misdirect, or otherwise direct attention to yourself or elsewhere, roll. On a 10+, pick 3. On a 7–9, pick 2.
 
 * Your actions create an opportunity for you or someone else.
 * You glean a flaw or weakness.
@@ -591,7 +618,7 @@ When you initiate single combat with another, answer the following questions and
 
 * Do you currently have the upper hand?
 * Are you better trained than them?
-* Does your equipment give you a par ticular advantage for this conflict? On a 10+, you generate 3 hold and your opponent generates 1\. On a 7–9, both of you generate 2 hold. On a miss, your opponent generates 3 hold and you generate 1\. You may spend hold 1 for 1 at any time to do one thing on the following list as long as you justify your choice in the fiction.
+* Does your equipment give you a par ticular advantage for this conflict? On a 10+, you generate 3 hold and your opponent generates 1. On a 7–9, both of you generate 2 hold. On a miss, your opponent generates 3 hold and you generate 1. You may spend hold 1 for 1 at any time to do one thing on the following list as long as you justify your choice in the fiction.
 * Inflict harm (minus armor if applicable).
 * Block harm (reduces harm by half rounded down).
 * Deflect all harm (choose twice).
@@ -619,7 +646,7 @@ This is a move, so it does require the marking of any emotional spikes.
 
 **MC:** Ok, so you can take +1 forward to your roll.
 
-**LIAM:** Shit, I got a 7\. So I get 2 hold and Tak gets 2 as well. I’m marking an emotion spike in Mad, too. I’m seething— maybe that’s why I don’t have more hold; I’m way too invested in this to think clearly.
+**LIAM:** Shit, I got a 7. So I get 2 hold and Tak gets 2 as well. I’m marking an emotion spike in Mad, too. I’m seething— maybe that’s why I don’t have more hold; I’m way too invested in this to think clearly.
 
 **MC:** Makes sense! You’re dangerously close to losing it too, I’d say. That’s your fourth spike in Mad, right?
 
@@ -744,7 +771,7 @@ When you name someone who you have Giri on in order to get something you want, r
 
 ## STRATEGIZE
 
-When you scrutinize, plan ahead, or confer with each other to achieve a common goal, you gain preparation. If you prepare for a day or two in the fiction, take 1 preparation. If you prepare for a week or longer, take 3\. Whenever you enact your stratagem, any of you may spend 1 preparation to take +1 forward on any roll when carrying out your plan.
+When you scrutinize, plan ahead, or confer with each other to achieve a common goal, you gain preparation. If you prepare for a day or two in the fiction, take 1 preparation. If you prepare for a week or longer, take 3. Whenever you enact your stratagem, any of you may spend 1 preparation to take +1 forward on any roll when carrying out your plan.
 
 Sometimes, players will talk amongst each other, in character and out, about a plan they want to put into motion. The MC should take the opportunity to go round robin and spotlight each player once in order to see how they contribute to the plan and so that they all have an equal say as to what everyone should do. Based on the outcome of each person’s spotlight and after a plan has been finalized, the players should decide, along with the MC, how long it would take to prepare said plan.
 
@@ -1249,13 +1276,13 @@ There are a few areas on the first page of the Apparatus playbook that need to b
 
 * The area titled “The Birth.” At the beginning of each session, you are going to roll 2d6 without adding a state. If you get a hit, the MC will ask you a question; answer it. If it’s a miss, you ask the question and the MC answers it. Either way, each session you will uncover more of the mystery that surrounds your character. This move is used each session to unravel a bit more of the mystery that pervades the Apparatus. They start out with a lot of questions and this move is used to snowball the answer you receive.
 
-**SCOTT:** Damn right, rolled a 9\. So you choose a question then, eh?
+**SCOTT:** Damn right, rolled a 9. So you choose a question then, eh?
 
 **MC:** Alright, let me see here...let’s go with, “Was I discarded or unwanted?”
 
 **SCOTT:** I think that it makes sense for me to have been discarded; maybe I was found all broken and messed up. Maybe they tried to destroy and discard me but one of the other players found me. What do you think, guys? Anyone want to be the person that found me?
 
-* The area titled “Humanity Harm.” The Apparatus is capable of inflicting humanity harm, which is talked about more in-depth on page 102\. A target takes humanity harm when they face a hard truth about themselves or their beliefs.
+* The area titled “Humanity Harm.” The Apparatus is capable of inflicting humanity harm, which is talked about more in-depth on page 102. A target takes humanity harm when they face a hard truth about themselves or their beliefs.
 
 ## APPARATUS MOVES
 
@@ -1317,7 +1344,7 @@ This is a move that gets triggered when the Apparatus tries to shut down or temp
 
 **MC:** Dang, alright. Dave is hardcore. Well he can’t defend himself so the gun howls as its namesake does and we see multiple plasma shots dig into him, a charge is released and he drops like the dead weight he is now. How’s the Apparatus feeling?
 
-**SCOTT:** I’m freaking out, Dave just killed an innocent man. I need to figure out who is he but I’m having so many conflicting emotions right now. I’m going to lock them down and slip into the calm coldness of logic; I’ll deal with Dave later. Aw man, I got a 3, even with the +1, I still totally miss with a 4\. I just can’t lock out my new-found emotions I guess and maybe that scares me.
+**SCOTT:** I’m freaking out, Dave just killed an innocent man. I need to figure out who is he but I’m having so many conflicting emotions right now. I’m going to lock them down and slip into the calm coldness of logic; I’ll deal with Dave later. Aw man, I got a 3, even with the +1, I still totally miss with a 4. I just can’t lock out my new-found emotions I guess and maybe that scares me.
 
 **MC:** Yeah, that sounds good – go ahead and mark that spike. Also, the analysis runs but no definitive match was found, it’s like he doesn’t exist at all! It’s kind of weird, though. You get this strange sense that there were hits – maybe even more than one, but the system comes back with nothing. You get this bad feeling and your hand just suddenly locks up, you can’t even control it. What do you do?
 
@@ -1353,7 +1380,7 @@ What constitutes an intelligence is up to the MC and the rest of the players, so
 
 **SCOTT:** As a pretty new life form I think that freaks me out a lot…I think I’m going to activate terminal. Hopefully later I can see something that redeems humanity a bit, because this is a horrible, horrible thing and I don’t want to feel whatever this is.
 
-**APPARATUS SPECIAL** When the Apparatus shares a moment of intimacy with someone, be it physical or emotional, roll without adding a state. On a 10+, you may ask them 2 questions if you wish; they must answer truthfully. On a 7–9, you may ask them only 1\.
+**APPARATUS SPECIAL** When the Apparatus shares a moment of intimacy with someone, be it physical or emotional, roll without adding a state. On a 10+, you may ask them 2 questions if you wish; they must answer truthfully. On a 7–9, you may ask them only 1.
 
 * In what way do you believe we are similar?
 * Have you ever ended someone’s life; why?
@@ -1393,7 +1420,7 @@ While there, they also bring parts of themselves forward. Manifestations of thei
 
 You get the _Reconfigure_ move and can choose one more.
 
-RECONFIGURE When you remake parts of the digital environment as you see fit, describe what you take from the digital world and what it becomes, then roll+cyberbrain. On a 10+, you do it and all 3\. On a 7–9, you do it but you may only choose 1\.
+RECONFIGURE When you remake parts of the digital environment as you see fit, describe what you take from the digital world and what it becomes, then roll+cyberbrain. On a 10+, you do it and all 3. On a 7–9, you do it but you may only choose 1.
 
 * You do not suffer feedback.
 * The change is not noticed.
@@ -1407,11 +1434,11 @@ Also, even though you’re adding the modifier from your cyberbrain, you still m
 
 **MC:** So, you’re entering a digital environment with your team, right, so you get to set the scene since you’re the Architect.
 
-**JON:** Sure, yeah! Umm, I think we enter the digital space and it’s a futuristic, hectic warzone with the sounds of combat and hi-tech weapons periodically breaking the silence. There’s rubble all over the place and two soldiers off in the distance are walking away from us. The buildings are cracked and scarred from the pummeling they’re taking and a piece falls off as we all look to these two lone soldiers. First reaction for John is to reach out and grab some of the rubble and turn it into an armored jacket to protect him from shots being fired. I think the rubble turns into like this digital code and gets transformed into the jacket, if it works anyway. Wow, barely. A 6 and my cyberbrain modifier for a 7\. I think he’s probably freaked out about being in a warzone, so I’ll mark Scared for that emotion spike. I’m going to choose to…make sure no one notices the change. We just got here, so last thing I need to be is on the run.
+**JON:** Sure, yeah! Umm, I think we enter the digital space and it’s a futuristic, hectic warzone with the sounds of combat and hi-tech weapons periodically breaking the silence. There’s rubble all over the place and two soldiers off in the distance are walking away from us. The buildings are cracked and scarred from the pummeling they’re taking and a piece falls off as we all look to these two lone soldiers. First reaction for John is to reach out and grab some of the rubble and turn it into an armored jacket to protect him from shots being fired. I think the rubble turns into like this digital code and gets transformed into the jacket, if it works anyway. Wow, barely. A 6 and my cyberbrain modifier for a 7. I think he’s probably freaked out about being in a warzone, so I’ll mark Scared for that emotion spike. I’m going to choose to…make sure no one notices the change. We just got here, so last thing I need to be is on the run.
 
 **MC:** As you’re reconfiguring, I think instead of feedback, there’s a piece of malicious code waiting there! You don’t catch it in time as you transform the code and you unwittingly absorb it! You take 1 harm and it obviously is unaffected by the protection of the jacket, but you do get to keep the armored jacket.
 
-CONSTRUCT When you host a digital lobby, roll+cyberbrain. By default, the effect will last only as long as you maintain it, will only able to house two minds, will have an unsecure, open connection protocol, and will appear basic and without detail. On a 10+, choose 2\. On a 7–9, choose 1:
+CONSTRUCT When you host a digital lobby, roll+cyberbrain. By default, the effect will last only as long as you maintain it, will only able to house two minds, will have an unsecure, open connection protocol, and will appear basic and without detail. On a 10+, choose 2. On a 7–9, choose 1:
 
 * It will persist (for a while) without you actively maintaining it.
 * It is highly detailed and expansive.
@@ -1450,7 +1477,7 @@ LADY IN RED: When you change your appearance within the constraints of the digit
 
 **MC:** Sounds like lady in red to me, roll it up.
 
-**JON:** Let’s see, a 5 and a 3\. And +1 for the cyberbrain. I think he’s still pretty anxious, so I’ll mark Scared again, too. I think what I want to be in is military garb, the same as Winston and the other soldier only at a higher rank so I might have a chance to take charge of the situation. That’s a 9.
+**JON:** Let’s see, a 5 and a 3. And +1 for the cyberbrain. I think he’s still pretty anxious, so I’ll mark Scared again, too. I think what I want to be in is military garb, the same as Winston and the other soldier only at a higher rank so I might have a chance to take charge of the situation. That’s a 9.
 
 **MC:** So close! Alright, well it’s a little early to be bringing in the big guns, but it would be cool to have something happen that unnerves you and shows everyone that the digital world responded. You said before that you actually were in the army before you were discharged, so maybe something from a time you were really Scared happens?
 
@@ -1496,7 +1523,7 @@ At the start of their first session, the players decided that there’s a set ti
 
 **JAMIE:** Switch hesitates at first but agrees.
 
-**JON:** Ok, I’m going to give you the kick to knock you back into meat space. I roll and get an 8\. Taking into account the +1 for the cyberbrain, that’s a total of 9\. I think as the camera pans around to see me concentrate on doing this, you see me looking worried and I’ll mark a Scared emotion spike. I think what the Kick is, is me creating a gateway out behind this door here. So she can just walk through it and she’ll be back in the real world. I’m going to choose not to take harm…
+**JON:** Ok, I’m going to give you the kick to knock you back into meat space. I roll and get an 8. Taking into account the +1 for the cyberbrain, that’s a total of 9. I think as the camera pans around to see me concentrate on doing this, you see me looking worried and I’ll mark a Scared emotion spike. I think what the Kick is, is me creating a gateway out behind this door here. So she can just walk through it and she’ll be back in the real world. I’m going to choose not to take harm…
 
 **MC:** Well as soon as she begins to cross the threshold of the gateway, the whole place starts shaking like an earthquake ripping through the area. As the ground shakes, your attention shifts to behind you and see someone walk out across the way, apparently unaffected. What does John do?
 
@@ -1549,10 +1576,10 @@ There are a few areas on the first page of the Attached playbook that need to be
 
 You get the _Thy Will Be Done_ move and can choose one more. Hunger for the Attached is a mechanic to simulate the will of your object. Whatever it needs or wants, it tries to achieve through hunger. The more hunger it has, the more will it has over you. Its hunger could be something like wanting to stay safe, or it could be the elimination of its foes. It all depends on the setting and what you’ve discussed with the MC, who is a fan of you, the player. Don’t be afraid to discuss what parts of the object you want to define right away and what parts you both want to play to find out.
 
-THY WILL BE DONE At the beginning of the session give your object +1 hunger, then roll and add your object’s hunger. On a 10+, the MC holds 3\. On a 7–9, the MC holds 1\. Throughout the session, the MC can spend their hold 1 for 1 to:
+THY WILL BE DONE At the beginning of the session give your object +1 hunger, then roll and add your object’s hunger. On a 10+, the MC holds 3. On a 7–9, the MC holds 1. Throughout the session, the MC can spend their hold 1 for 1 to:
 
 * Name something; your object must have it. When you give in to your object, mark experience and -1 hunger from your object.
-* Have it object to a course of action or propose one of its own; Should you obey, mark experience and -1 hunger from your object. If the MC has any hold left at the end of the session, give your object +1 hunger, to a maximum hunger of +4\. If your object has a hunger of +4, take -1 ongoing to all dice results until you find a way to satiate your object’s hunger. You may proposition the MC for a way to fix the issue, or ask the MC to propose something. If the MC is neglected to use hold in a session, find appropriate moments in the fiction that suggest a good time to spend hold and remind the MC that they can do so.
+* Have it object to a course of action or propose one of its own; Should you obey, mark experience and -1 hunger from your object. If the MC has any hold left at the end of the session, give your object +1 hunger, to a maximum hunger of +4. If your object has a hunger of +4, take -1 ongoing to all dice results until you find a way to satiate your object’s hunger. You may proposition the MC for a way to fix the issue, or ask the MC to propose something. If the MC is neglected to use hold in a session, find appropriate moments in the fiction that suggest a good time to spend hold and remind the MC that they can do so.
 
 The hunger of an object is simply what it wants. It could be scared and doesn’t want to be in firefights, or it could be a sentient sword that craves the blood of its enemies. Whatever it is, it has an agenda and its hunger is the way in which it expresses to you what it needs or wants.
 
@@ -1660,7 +1687,7 @@ Within reasonable constraints of the fiction, when you enter some place new, you
 
 **LOGAN:** It’s probably this really old clumsy looking version of tech that’s like banned or not used anymore because it’s not safe or we have better upgraded versions of the same stuff. Back when everything was matte black and made to look a lot less organic than it is now.
 
-JUNKWARE When you utilize your omni-tool to take your junkware and modify it into cybernetics you then incorporate into yourself, roll+omni-tool. On a 10+, choose 2\. On a 7–9, choose 1:
+JUNKWARE When you utilize your omni-tool to take your junkware and modify it into cybernetics you then incorporate into yourself, roll+omni-tool. On a 10+, choose 2. On a 7–9, choose 1:
 
 * You do so and add one tag to describe it.
 * It does not require a negative tag.
@@ -1678,7 +1705,7 @@ LOGAN: Alright, well I think since it is all old, it’s just some rough stuff t
 
 LOGAN: Ha-ha, I like that it’s such a simple thing...ancient ruins— of course there’s no power.
 
-THINGS SPEAK When you handle or examine an object of particular interest to you, roll. On a 10+, ask 3\. On a 7–9, ask 2\. On a miss, it will ask a question of you and you will answer.
+THINGS SPEAK When you handle or examine an object of particular interest to you, roll. On a 10+, ask 3. On a 7–9, ask 2. On a miss, it will ask a question of you and you will answer.
 
 * Who handled this before me?
 * Who made this or what has been done near this?
@@ -1712,7 +1739,7 @@ JARGON When you use terminology related to cybernetic or mechanical systems, tak
 
 **MC:** Sure, take +1forward to probe if you want – you could also be swaying it, what do you think?
 
-**LOGAN:** Well, I’d rather be probing it…if that’s cool. Aww, you can see expectation and excitement on my face as I communicate with it, but I got a miss with a 4\. I’ll mark the emotion spike in Joyful, though.
+**LOGAN:** Well, I’d rather be probing it…if that’s cool. Aww, you can see expectation and excitement on my face as I communicate with it, but I got a miss with a 4. I’ll mark the emotion spike in Joyful, though.
 
 **MC:** Before you can continue talking with it, the voice keeps repeating, “Error, Error,” over and over before it suddenly silences and everything goes dark, except for the pulsating orb in the darkness.
 
@@ -1810,7 +1837,7 @@ Your disease gives you incredible gifts that you can manifest. However, doing so
 
 **MC:** Sure, first though, you just used your unnatural movement right—so go ahead and roll trigger for me and we’ll see if your disease manifests. You want to roll low for this one…
 
-AMY: Well nice, I got a 5\. Best time for a miss!
+AMY: Well nice, I got a 5. Best time for a miss!
 
 PATTERN RECOGNITION When you compare data or are subjected to massive amounts of information, you may ask one question from Analyze immediately, without rolling. What you may consider to be massive amounts of information and what others may, will probably vary. Remember to consider what will propel the fiction forward when a move should trigger or not and if stakes are involved. Depending on your setting, who knows what a lot of information looks like and is interpreted as, but if it would be something interesting to have happen, do it and work with the rest of the people invested in the story to see how this looks in the fiction.
 
@@ -1824,7 +1851,7 @@ PATTERN RECOGNITION When you compare data or are subjected to massive amounts of
 
 **MC:** Ok, sounds like you’re at risk here, so let’s roll that. The danger is that you won’t be able to do it in time and all that information is going to be gone!
 
-**AMY:** Alright, I think her current state is pretty anxious and she’s freaking out a bit. Her Scared is +1, which gives me an 8\. I’ll mark the emotion spike for that, it’s just the first one though, so she’s doing alright, she’s got this.
+**AMY:** Alright, I think her current state is pretty anxious and she’s freaking out a bit. Her Scared is +1, which gives me an 8. I’ll mark the emotion spike for that, it’s just the first one though, so she’s doing alright, she’s got this.
 
 **MC:** Ok, so let’s see, you can either just completely turn it off and hope they didn’t erase everything, or continue to try and boot them out, but they’ll get some information about you and this place you wouldn’t want them to have. What do you think?
 
@@ -1874,7 +1901,7 @@ There are a few areas on the first page of the Empath playbook that need to be r
 
 ## EMPATH MOVES
 
-You get the _Absorb_ move and choose one more. **ABSORB** You begin with 0 Flow. When you intentionally draw on the emotions around you, name someone present; if it’s a PC, choose an emotion and absorb all their spikes. If it’s an NPC, the MC will tell you what you can absorb from them when you roll. On a 10+, choose 3\. On a 7–9, choose 2\. On a miss, choose 1 anyway, but also take 1 harm AP.
+You get the _Absorb_ move and choose one more. **ABSORB** You begin with 0 Flow. When you intentionally draw on the emotions around you, name someone present; if it’s a PC, choose an emotion and absorb all their spikes. If it’s an NPC, the MC will tell you what you can absorb from them when you roll. On a 10+, choose 3. On a 7–9, choose 2. On a miss, choose 1 anyway, but also take 1 harm AP.
 
 * You get +1 Flow.
 * They aren’t aware of what you are doing.
@@ -1889,7 +1916,7 @@ Empaths are the only playbook in the game that can draw in emotions and use thos
 
 **MC:** Cool, so Rook, you feel the tension drain from you. When Cassi did this before, the only one who could see what was happening was her, but we always see the concentration on her when she does it, so, you can tell that’s probably what’s going on. You’ve got another Flow, but now one of the Guards steps forward and shouts at you to put your hands on the floor and looks pretty twitchy, what do you do?
 
-**SLING** When you tap into and expel the Flow within you, roll+Flow. On a 10+, choose 2\. On a 7–9, choose 1\.
+**SLING** When you tap into and expel the Flow within you, roll+Flow. On a 10+, choose 2. On a 7–9, choose 1.
 
 * Spike out an emotion of your choosing in all those present.
 * Exclude someone from your sling.
@@ -1924,7 +1951,7 @@ SEARCH FEELINGS When you read the emotional residue of an area to reconstruct pa
 
 **MC:** Sounds like the search feelings move. So when we see her doing this, how does she feel? What are we seeing on the camera?
 
-**ELLE:** She’s feeling Powerful because she’s feeling important which nets me an 8\. And I think it looks like a similar field to the one that was emitted before except it’s like a sonar that keeps pulsing out actually! It keeps going out over and over and then I like go around and touch stuff and try and figure out what’s up.
+**ELLE:** She’s feeling Powerful because she’s feeling important which nets me an 8. And I think it looks like a similar field to the one that was emitted before except it’s like a sonar that keeps pulsing out actually! It keeps going out over and over and then I like go around and touch stuff and try and figure out what’s up.
 
 **MC:** Cool, sure. Well, there’s residual emotions all over this office, one of which is in the main chair behind the desk. You see a tall gangly looking man in a suit talking with a colleague about an appointment and being back in like an hour or so, you’re not sure how long ago it was but he’s definitely coming back into this office at some point today based on the conversation, he then says something but it cuts out for you as his mouth is forming the words.
 
@@ -1938,7 +1965,7 @@ CHARGE OBJECT When you channel the energy you have from your Flow and use it to 
 
 As an alternative to other moves, the Empath can consume Flow to charge an object with that emotion. NPCs are easier to read so you have a couple more options with them. You can divine a relationship between something they are aware of when they touch the object, inflict humanity harm, or feel the strongest emotion they feel and for whom. For PC’s, you can inflict humanity harm or you can assist or interfere with them from anywhere. Maybe when they touch it, this emotion is like a ticking time bomb and you’ve got the trigger. What do you do?
 
-**ELLE:** I touch the man’s chair and try to charge it so when he returns and sits on it, bam! Hm, I get a 4 and a 2 and I have 2 Flow still. So, with that +2 I get an 8\. So where I was going with that is inflicting humanity harm on the guy with the memory. I infuse the memory of when I was a child in the orphanage into the chair.
+**ELLE:** I touch the man’s chair and try to charge it so when he returns and sits on it, bam! Hm, I get a 4 and a 2 and I have 2 Flow still. So, with that +2 I get an 8. So where I was going with that is inflicting humanity harm on the guy with the memory. I infuse the memory of when I was a child in the orphanage into the chair.
 
 **MC:** What about that would cause humanity harm?
 
@@ -2015,7 +2042,7 @@ PRESTIGE Whenever you meet someone important (your call), roll+capital. On a hit
 
 **MC:** Sure, so she stands up and reaches out her hand as if you were about to do the same even though it doesn’t seem like you were and sneers a bit. “So this is the man who pulled off the Takei job……I thought you’d be taller.” Her voice transitions from a rougher dialect when the sneer’s done, what’s left is a more affluent dialect. You can’t place an accent but she doesn’t talk like everyone else around here, that’s for sure. She continues on and says that she needs something from you, and hands you a fancy consultants card that’s got some nice physical paper as well as some augmentation attached to it. Maybe you two can help one another?
 
-HARVEY TIME When you have time, solitude, and offer someone Cred in the pursuit of completing any contract you don’t intend to pursue yourself, roll+Cred spent. On a 10+, choose 3\. On a 7–9, choose 2\.
+HARVEY TIME When you have time, solitude, and offer someone Cred in the pursuit of completing any contract you don’t intend to pursue yourself, roll+Cred spent. On a 10+, choose 3. On a 7–9, choose 2.
 
 * They complete the contract.
 * The board does not hear you have been pursuing your own self interests.
@@ -2072,7 +2099,7 @@ You’re the same decaying matter as everybody else. The difference between you 
 
 You get the _Potential_ move and can choose one more.
 
-**POTENTIAL** At the beginning of session, roll 2d6 without adding a state. On a 10+, you generate 2 humanity. On a 7–9, you generate 1\. When you draw upon your humanity and consume it, you may spend it 1 for 1 to:
+**POTENTIAL** At the beginning of session, roll 2d6 without adding a state. On a 10+, you generate 2 humanity. On a 7–9, you generate 1. When you draw upon your humanity and consume it, you may spend it 1 for 1 to:
 
 * Inflict humanity harm by telling or showing someone how capable you are despite shirking all technology has to offer.
 * Perform an extraordinary feat of physical aptitude (The MC has final discretion).
@@ -2082,7 +2109,7 @@ The Honed generates humanity within them at the beginning of each session. You d
 
 **MC:** It’s a new day, let’s see what your humanity is like this time for Stella.
 
-**SARAH:** Not bad, a 7\. Could be worse! 1 humanity marked down. I think I figured out what humanity for her is like, too. I think it’s her essence or chi. Her soul or spirit or something unknowable is what fills her up with this energy and doing good in the world, being confident at what she does and doing impossible tasks for the betterment of people literally fuels her.
+**SARAH:** Not bad, a 7. Could be worse! 1 humanity marked down. I think I figured out what humanity for her is like, too. I think it’s her essence or chi. Her soul or spirit or something unknowable is what fills her up with this energy and doing good in the world, being confident at what she does and doing impossible tasks for the betterment of people literally fuels her.
 
 GLORY Whenever you complete any of the feats below, you generate 1 humanity for each task:
 
@@ -2096,7 +2123,7 @@ Glory could be taken by other classes in order to generate humanity but is the m
 
 **SARAH:** Oh, no, thanks for reminding me! Yeah those people were pretty hardcore about getting him, he must have been important!
 
-PARKOUR When you use the environment to facilitate your movements through the world, roll. On 10+, choose 3\. On a 7–9, choose 2\.
+PARKOUR When you use the environment to facilitate your movements through the world, roll. On 10+, choose 3. On a 7–9, choose 2.
 
 * Escape an enemy and avoid all harm.
 * Leave no trail or trace.
@@ -2139,7 +2166,7 @@ When you engage with the environment in order to deter them, this is when you wo
 
 **MC:** Sounds like you’re analyzing, let’s see that roll. Also, we can consider the girl saved by you now, so you generate 1 humanity.
 
-**SARAH:** OK, nice. I want to get the heck out of here, I’m looking around for entry and exit points as fast as I can! It’s really important and I’m protecting someone so I want to spend a humanity to take the +1 forward since I’m protecting someone from danger from my Potential move. I think for a moment Stella’s confidence wavers but then realizes she’s the best at what she does, and that’s what consumes the humanity. So, I’ll roll analyze here and, nice, I got a 10\. I’ve got 3 options to choose from and I’ll add a Powerful emotion spike again.
+**SARAH:** OK, nice. I want to get the heck out of here, I’m looking around for entry and exit points as fast as I can! It’s really important and I’m protecting someone so I want to spend a humanity to take the +1 forward since I’m protecting someone from danger from my Potential move. I think for a moment Stella’s confidence wavers but then realizes she’s the best at what she does, and that’s what consumes the humanity. So, I’ll roll analyze here and, nice, I got a 10. I’ve got 3 options to choose from and I’ll add a Powerful emotion spike again.
 
 WITH GREAT POWER Select one state; whenever you would mark your fifth spike in that emotion, you may choose to ignore it instead. Whenever you choose this option for advancement, you’ll want to describe in the fiction what’s happening with this in the fiction, too. Why is this emotion handled well above all else? You still feel this emotion and can experience it more and more intensely, it just doesn’t spike out, unlike others.
 
@@ -2147,7 +2174,7 @@ WITH GREAT POWER Select one state; whenever you would mark your fifth spike in t
 
 **SARAH:** I’ll say, yeah it would have been spiked out right now! Stella is probably always feeling Powerful, it may not always be the predominate emotion she feels but in general, she’s confident because of her abilities and training.
 
-MUSASHI Whenever you Neutralize, no matter your emotional state, roll at +1\. If your emotional state is +2, use that instead. The Honed is at home in tough, demanding physical confrontations. When there’s a conflict that requires harm be exchanged, regardless of your emotional state you will still be getting a positive modifier. However it happens, remember to do it, you do it—so you’d need to also provide what this looks like in the fiction. You still do have an emotional state that comes into play, so it still plays a part in the scene.
+MUSASHI Whenever you Neutralize, no matter your emotional state, roll at +1. If your emotional state is +2, use that instead. The Honed is at home in tough, demanding physical confrontations. When there’s a conflict that requires harm be exchanged, regardless of your emotional state you will still be getting a positive modifier. However it happens, remember to do it, you do it—so you’d need to also provide what this looks like in the fiction. You still do have an emotional state that comes into play, so it still plays a part in the scene.
 
 **MC:** So you picked what’s your best escape route right? OK, well you make your way through the flames, cradling this girl—to the bedroom and there’s a window there. But there’s one of those dudes who was chasing you climbing through it right now, he hasn’t seen you as he’s got his back turned to you as he’s propping himself up to lower himself in there. What do you want to do?
 
@@ -2234,7 +2261,7 @@ When you play as the Honorbound you are literally bound. Why you are considered 
 
 **VIVI:** Cool, I send her back this like snapshot of just me grinning and a thumbs up. I was bored anyways. So this binds me to the task, ya? Nice, I have that when a mutual agreement is broken the punishment is restitution, makes sense.
 
-**THE ART OF THE PURSUIT** When you assimilate all the information you have available on a target, roll. On a 10+, generate 2 hold. On a 7–9, generate 1\. Spend your hold 1 for 1 when actively on the hunt for them in order to:
+**THE ART OF THE PURSUIT** When you assimilate all the information you have available on a target, roll. On a 10+, generate 2 hold. On a 7–9, generate 1. Spend your hold 1 for 1 when actively on the hunt for them in order to:
 
 * Discern their position or a weakness in their life to exploit in order to do so.
 * Discern what security they may have or what kind of a threat they’d be to you.
@@ -2271,11 +2298,11 @@ It usually follows that people who aren’t honorable aren’t going to want to 
 
 **MC:** So you walk right up to him and his eyes widen as he turns and sees the mask hovering there, roll it up!
 
-**VIVI:** OK, well I’m definitely still Joyful. So, I get an 8\. So, I’d love to have him dismayed!
+**VIVI:** OK, well I’m definitely still Joyful. So, I get an 8. So, I’d love to have him dismayed!
 
 **MC:** Yeah, he lets out a little yelp and starts looking around and puts up his hands. He starts sweating and he says that he knows why you’re here. “But please, I didn’t break anything! They’re lying!” What do you do?
 
-**ABSOLUTION** When you become intimate with a target in order to better know them, roll. On a 10+, hold 3\. On a 7–9, hold 1\. during the scene, spend your hold 1 for 1 to ask them questions:
+**ABSOLUTION** When you become intimate with a target in order to better know them, roll. On a 10+, hold 3. On a 7–9, hold 1. during the scene, spend your hold 1 for 1 to ask them questions:
 
 * What was your lowest moment?
 * For what do you crave forgiveness, and from whom?
@@ -2319,7 +2346,7 @@ A sense of mystery and the uncanny naturally comes with Onomastic and their abil
 
 You get the _True Name_ move and can choose one more.
 
-F **TRUE NAME** When you can see someone you wish to manipulate with the mysterious power of your dead order, speak their true name and roll+components (you must have at least 1 component in order to do so). On a 10+, hold 3\. On a 7–9, hold 1\. If they are willing you may spend your hold 1 for 1 without issue; if unwilling, you must have them in your sights. The components when used are consumed, forever losing their power against the individual.
+F **TRUE NAME** When you can see someone you wish to manipulate with the mysterious power of your dead order, speak their true name and roll+components (you must have at least 1 component in order to do so). On a 10+, hold 3. On a 7–9, hold 1. If they are willing you may spend your hold 1 for 1 without issue; if unwilling, you must have them in your sights. The components when used are consumed, forever losing their power against the individual.
 
 * Inflict or ignore 1 harm (AP).
 * Have them lose track of what they were doing.
@@ -2335,7 +2362,7 @@ When you use components, you’re actually assembling the major life events you 
 
 **MC:** Yeah, you see a wound and it’s all charred from the thermal bolt and he’s out cold, laying on his side where he fell.
 
-GRANT: Fizz revealed enough information about himself last time that Hugh knows some components. So as we stand now looking at my components, it looks like I’d get a +2\. So I think what Hugh is going to do is true name him and try and help him out here. I think ordinarily it’s a Peaceful thing but with the incoming fire happening, I think he’s Scared, I’ll mark that spike. So his voice probably quivers a bit with fear as he uses his power. Rolled and got a 4 and 5 and adds his modifier for Scared at a -1\. So 10 despite the -1, nice. I’m going to spend 1 hold right now to have him ignore 1 harm. I know he’s not healed, but maybe he can still function now at least.
+GRANT: Fizz revealed enough information about himself last time that Hugh knows some components. So as we stand now looking at my components, it looks like I’d get a +2. So I think what Hugh is going to do is true name him and try and help him out here. I think ordinarily it’s a Peaceful thing but with the incoming fire happening, I think he’s Scared, I’ll mark that spike. So his voice probably quivers a bit with fear as he uses his power. Rolled and got a 4 and 5 and adds his modifier for Scared at a -1. So 10 despite the -1, nice. I’m going to spend 1 hold right now to have him ignore 1 harm. I know he’s not healed, but maybe he can still function now at least.
 
 GAZE INTO THE ABYSS When you Analyze, you may ask 1 of these questions in addition to the others.
 
@@ -2384,9 +2411,9 @@ There could be a multitude of things classified as unnatural, perverted, or twis
 
 **MC:** Sounds like you’re being a slayer?
 
-**GRANT:** Yeah, I’m going to try and see what’s up with these Iconoclasts. Aw, man. The dice hate me to today or something though. When I add my Scared state yet again, I only get a 6\. 1 more and I could have maybe found out! UGH, I throw myself over my companion, protecting him. Maybe my armor will protect us?! **MC:** Hm. So I feel like, you saving this dudes life possibly and sacrificing yourself, could be an intimate moment, what does that do for you?
+**GRANT:** Yeah, I’m going to try and see what’s up with these Iconoclasts. Aw, man. The dice hate me to today or something though. When I add my Scared state yet again, I only get a 6. 1 more and I could have maybe found out! UGH, I throw myself over my companion, protecting him. Maybe my armor will protect us?! **MC:** Hm. So I feel like, you saving this dudes life possibly and sacrificing yourself, could be an intimate moment, what does that do for you?
 
-ASYLUM When you speak the true name of your sanctuary and roll. On a hit, you withdraw into your sanctuary with or without clear explanation as to how you got there and… On a 10+, choose 2\. On a 7–9, choose 1\.
+ASYLUM When you speak the true name of your sanctuary and roll. On a hit, you withdraw into your sanctuary with or without clear explanation as to how you got there and… On a 10+, choose 2. On a 7–9, choose 1.
 
 * you can still watch and hear what is happening while you are there.
 * you can re-emerge in a different place altogether.
@@ -2483,7 +2510,7 @@ PIERCING GAZE When you Probe someone, you may always ask, “What is your charac
 
 **MC:** Yeah he’s totally stunned and then if you don’t do anything, he backs off and sort of hesitates a moment more in fear – right in front of you. He looks like he’s completely unsure of himself and what to do next, what do you do?
 
-**JAKE:** I sheath my sword and offer him my hand and I apologize. Violence is never the way, and I’m going to size him up as best as I can here. I think my moods shifted, I’m Peaceful now, and I got a 7\. I think I’m using piercing gaze to probe him. So, first off what is he feeling?
+**JAKE:** I sheath my sword and offer him my hand and I apologize. Violence is never the way, and I’m going to size him up as best as I can here. I think my moods shifted, I’m Peaceful now, and I got a 7. I think I’m using piercing gaze to probe him. So, first off what is he feeling?
 
 **MC:** He’s fe e l ing S c a red, mos t l y be c aus e now there’s two of you.
 
@@ -2541,7 +2568,7 @@ When the future came, it brought with it a new age of technology. The digital an
 
 ## WAYWARD MOVES
 
-You get the _Nourish_ move and can choose one more. **NOURISH** When you attempt to nourish your homeland, roll. On a 10+, choose 2\. On a 7–9, choose 1\.
+You get the _Nourish_ move and can choose one more. **NOURISH** When you attempt to nourish your homeland, roll. On a 10+, choose 2. On a 7–9, choose 1.
 
 * You halt the erosion where it stands, for a time.
 * You begin to restore what’s already gone.
@@ -2551,11 +2578,11 @@ Nourishing your homeland can mean a lot of things based on your previous selecti
 
 **MC:** So you’re in the ward, as the smoking man said. There are rows and rows of people sleeping. Some young, some old. It’s an all-white, sterile place and the only sound is the machines keeping these people alive. He asked you to save these people as he believes that they have a virus which doesn’t allow them to dream. He’s got you tethered here with that device he put on you after he let you out of the prison. In exchange for curing these people, he will release you. What do you do?
 
-KIER: Right, I’ll drift over to one of them and propagate some dreams. I think how I manufacture dreams, is probably me telling a story. It just comes from my lips; I don’t know the words or remember them—it’s just something my people do. We look at a person and we tell them their story, and it almost always certainly makes them dream. I think I’m Peaceful, there’s a reassurance in tradition that calms people and I think what I’m doing resembles that. With Peaceful, I got an 8\. So it works at least. That’s good. I like to think that maybe as my lips move with the story of this person, eventually their lips start moving, mouthing the same words as I do. And I think as they mouth the words of their dream, an imperceptible dust comes out of their mouth and it flows into my helmet, like I’m drinking it or something – which gives me 2 Essence. I now have 4 Essence since I began with 2.
+KIER: Right, I’ll drift over to one of them and propagate some dreams. I think how I manufacture dreams, is probably me telling a story. It just comes from my lips; I don’t know the words or remember them—it’s just something my people do. We look at a person and we tell them their story, and it almost always certainly makes them dream. I think I’m Peaceful, there’s a reassurance in tradition that calms people and I think what I’m doing resembles that. With Peaceful, I got an 8. So it works at least. That’s good. I like to think that maybe as my lips move with the story of this person, eventually their lips start moving, mouthing the same words as I do. And I think as they mouth the words of their dream, an imperceptible dust comes out of their mouth and it flows into my helmet, like I’m drinking it or something – which gives me 2 Essence. I now have 4 Essence since I began with 2.
 
 **MC:** Really. I like that image a lot, very cool. So that totally happens and you get your Essence, everything seems to be going really well. But this time you hear what they say in the last sentence of this ritual. You think you hear them whisper “close the door “ and then they smile faintly and drift off into a slumber. It seems to have worked, so what do you do now? One down, a LOT to go.
 
-BEING A GREEN MOTHER When you channel your Essence into the natural world through touch—be it plants, animals or anything that is a product of the earth—roll+ Essence spent. On a 10+, choose 2\. On a 7–9, choose 1\.
+BEING A GREEN MOTHER When you channel your Essence into the natural world through touch—be it plants, animals or anything that is a product of the earth—roll+ Essence spent. On a 10+, choose 2. On a 7–9, choose 1.
 
 * Your senses extend through it as though you were a part of it.
 * You may treat it as though it were a named NPC for the purposes of interactions.
@@ -2569,7 +2596,7 @@ Depending on where your homeland is, it could be an extension of the main area o
 
 **KIER:** I think Scared to be honest. They’ve been out of touch from his homeland and people and everything and everybody and they know this is a thing they can do— but who knows anymore? So I’ll mark that emotion spike and I’ll just barely squeak in a 7 since I only consumed 1 Essence. I’ll choose to treat it as a named NPC and ask it if it knows anything about these mysterious events.
 
-IMBUE Whenever you consume Essence to interact with and fundamentally alter a piece of technology, describe how you do it and roll. On a 10+, choose 2\. On a 7–9, choose 1\. On a miss, choose one and the MC will tell you what happens next.
+IMBUE Whenever you consume Essence to interact with and fundamentally alter a piece of technology, describe how you do it and roll. On a 10+, choose 2. On a 7–9, choose 1. On a miss, choose one and the MC will tell you what happens next.
 
 * You change how it’s powered.
 * You change its size or dimensions.
@@ -2615,7 +2642,7 @@ VIADUCT When you use your homeland as a medium to traverse distances in time-spa
 
 **MC:** Alrighty, so I think it happens as it normally would, you’re in the dreamscape, or whatever you want to call it. As you survey your homeland though, the first person you see is the old man, he’s smiling at you. Also, I think you gained 1 more Essence for your transmission move, the woman you saved is there and does not plan on leaving anytime soon. She’s visibly relieved to be away from the other situation, despite the old man and being in a strange place, she does not feel threatened anymore.
 
-GLEAN Whenever you speak frankly with another in order to obtain information about your homeland while within the confines of it, roll. On 10+, ask 2\. On a 7–9, ask 1\.
+GLEAN Whenever you speak frankly with another in order to obtain information about your homeland while within the confines of it, roll. On 10+, ask 2. On a 7–9, ask 1.
 
 * How has this place changed recently?
 * For what purpose are you here and why do you remain?
@@ -2625,7 +2652,7 @@ GLEAN Whenever you speak frankly with another in order to obtain information abo
 
 **MC:** Ah, as in trying to glean information from him, I think it meets the criteria depending on what you choose to say—since it’s about your homeland.
 
-**KIER:** “I don’t know you old man, what are you doing in my home and what is your intent!?” And I’m straight up Mad now, giving me a 9\. I think my voice quivers with rage as I ask him. I think the obvious choice is what is his purpose and why does he remain, right?
+**KIER:** “I don’t know you old man, what are you doing in my home and what is your intent!?” And I’m straight up Mad now, giving me a 9. I think my voice quivers with rage as I ask him. I think the obvious choice is what is his purpose and why does he remain, right?
 
 **WAYWARD SPECIAL** When the Wayward shares a moment of intimacy with someone, be it physical or emotional, you each gain 1 hold. Spend your hold 1 for 1 to treat them as an Anchor. They may spend their hold to give you advantage or disadvantage on a roll of their choice by describing why the thought of them does so.
 
@@ -2801,7 +2828,7 @@ PLACE THEM AT THE CENTER OF EVERYTHING The fiction is filled with endless possib
 
 THE FICTION MAKES YOUR MOVES, YOU DO NOT The players should know you’ve made a move because something’s happening in the fiction. They should never hear the move you’re making. You’re not saying aloud your announcements of future badness. You’re telling them the hairs on the back of their neck are standing up. The moves are demanded by the fiction and should come from it at all times. This is another simple thing to help immersion as well as separate you from the players as a person. You’re not a person, you’re everyone. You are the fiction, and as such when bad things go wrong it’s silly to blame you. It’s the events that is organically following from the players exerting their agency in the game, nothing more and nothing less.
 
-NAME EVERYONE AND GIVE THEM A MOTIVATION Anytime there is an interaction with an NPC, the MC should know their name and what they’re all about. There are no faceless denizens unless they’re the extras when you’re walking in time square in 2085\. The best and fastest way to make an NPC feel like a real person in the fiction is to give them a name. Details are just as important as the name. When Brax goes and talks to his contact to get information, he’s not just meeting some random guy. If it’s boring, then we just skip the scene and he has the stuff he wanted already. If it’s not and something is going to happen, it’s not his contact. It’s Dexter, who has sunken eyes and always wears shades. He’s always hanging out at the same pub and reeks of cheap booze. All. The. Time. He wants something too, Cred. He’s not there to simply serve the protagonist; maybe this time he wants more money, its good information, after all. It’s about time he gets a raise for all this crap.
+NAME EVERYONE AND GIVE THEM A MOTIVATION Anytime there is an interaction with an NPC, the MC should know their name and what they’re all about. There are no faceless denizens unless they’re the extras when you’re walking in time square in 2085. The best and fastest way to make an NPC feel like a real person in the fiction is to give them a name. Details are just as important as the name. When Brax goes and talks to his contact to get information, he’s not just meeting some random guy. If it’s boring, then we just skip the scene and he has the stuff he wanted already. If it’s not and something is going to happen, it’s not his contact. It’s Dexter, who has sunken eyes and always wears shades. He’s always hanging out at the same pub and reeks of cheap booze. All. The. Time. He wants something too, Cred. He’s not there to simply serve the protagonist; maybe this time he wants more money, its good information, after all. It’s about time he gets a raise for all this crap.
 
 Lots of times when you introduce a new NPC, the protagonists are going to try and remember who they are, if they know them at all. If, during the conversation it turns out multiples of them do, well they’re all tied together and we get more history on all of them based on that. NPCs just aren’t that complicated. Give them something they care about and make them follow it around. Make it the ONLY thing they care about on the screen. We don’t need to know why they have this or look at them through a lens like the protagonists. We just need to know what they want and make them follow it to the end. This is called their Motivation, and there will be a whole whack of them to check out in the upcoming threats section to help you out.
 
@@ -2942,7 +2969,7 @@ The blurring of life and death: When what is perceived to be human is revealed t
 
 ## MOVES SNOWBALL
 
-In _The Veil_, moves are intentionally made to snowball. Whenever one is resolved, it bleeds into the next and causes more discord to happen within the fiction and perpetuates the story. Moves made in succession as well as when they get a weak hit (7–9) increase the drama automatically because the protagonists aren’t just able to get what they want. They need to meet circumstances in order to do so or the opposition gets something they want as well, forcing the protagonist into the new set of circumstances described by you. Lots of times, what ends up happening is an escalation of moves. When you look at the basic moves for the protagonists, you can see how they might escalate. 1\. They may try to analyze the situation and perceive the major threat. 2\. Maybe then they try to probe or sway that threat. 3\. Failing that, they may give an ultimatum. 4\. We could then move into a physical conflict with neutralize, should that fail.
+In _The Veil_, moves are intentionally made to snowball. Whenever one is resolved, it bleeds into the next and causes more discord to happen within the fiction and perpetuates the story. Moves made in succession as well as when they get a weak hit (7–9) increase the drama automatically because the protagonists aren’t just able to get what they want. They need to meet circumstances in order to do so or the opposition gets something they want as well, forcing the protagonist into the new set of circumstances described by you. Lots of times, what ends up happening is an escalation of moves. When you look at the basic moves for the protagonists, you can see how they might escalate. 1. They may try to analyze the situation and perceive the major threat. 2. Maybe then they try to probe or sway that threat. 3. Failing that, they may give an ultimatum. 4. We could then move into a physical conflict with neutralize, should that fail.
 
 Lots of times, there needs to be this escalation in order for the situation to be resolved. It should always escalate until one party backs down. The MC can usually see how these events could play out, depending on what’s being said about the current situation in the fiction. When you frame a scene, make sure there’s lots of information but not too much, so that they want to find out more. Give answers in such a way that they will want to continue to interact with the scene. As they interact more, allow them to act on that information in a way that will make them consider their actions and the consequences of those actions. If the threat in the scene is that they are getting closer to the truth, make it elusive until they earn it.
 
@@ -2976,7 +3003,7 @@ When Rags and Cricket come to a head, they end up resolving the conflict with ha
 
 **RAGS:** My boys are here too Cricket, you’re not getting away let’s settle this, come out! You may not be mortally wounded for now, but I’m a good shot with this. If you want to live, supplicate yourself!
 
-**CRICKET:** Frick, so I’m in the dirt under a mound here, watching these guys surround me. I think I want to analyze here. Maybe I see a clear exit, the guys are surrounding him so there’s going to be a way out, he’s hurt me already— maybe he’ll let me be… I feel a bit hopeful now I think, maybe I can just escape with this idea and take off. That’s an 8\. I want to know, what’s my best escape route?
+**CRICKET:** Frick, so I’m in the dirt under a mound here, watching these guys surround me. I think I want to analyze here. Maybe I see a clear exit, the guys are surrounding him so there’s going to be a way out, he’s hurt me already— maybe he’ll let me be… I feel a bit hopeful now I think, maybe I can just escape with this idea and take off. That’s an 8. I want to know, what’s my best escape route?
 
 **MC:** Well, Rags’ men are spreading but there’s an exit to your side they haven’t seen yet. They’re scanning and watching for you, there’s no way you’re going for it without triggering risk.
 
@@ -2990,7 +3017,7 @@ When Rags and Cricket come to a head, they end up resolving the conflict with ha
 
 **CRICKET:** Yep, I try and roll and just get plugged. Maybe the shot is powerful enough even that I get pushed up against the wall where I was running to. I’m knocking on heaven’s door soon and at the mercy of Rags, I guess.
 
-In general, players will probably be working together, though. So it should be a fairly rare occurrence. If you think a duel is more appropriate, see the duel move. I find people are 50/50\. Some people like the approach of using a duel a lot more and others like the interference rolls coupled with neutralize way of doing things. Whatever way you have more fun doing, I say go with that! How much time you have and want to spend on the scene is also going to dictate which way you should do things as well, since a duel usually will take longer.
+In general, players will probably be working together, though. So it should be a fairly rare occurrence. If you think a duel is more appropriate, see the duel move. I find people are 50/50. Some people like the approach of using a duel a lot more and others like the interference rolls coupled with neutralize way of doing things. Whatever way you have more fun doing, I say go with that! How much time you have and want to spend on the scene is also going to dictate which way you should do things as well, since a duel usually will take longer.
 
 ## DEFINING THE VEIL
 
@@ -3512,7 +3539,7 @@ Under cultural and societal aspects to explore, the MC might put down “Ghosts 
 
 Under the “threats” section, the MC writes in “Section 6 goons,” “Hacked Assassin,” and “High-tech tank”.
 
-The MC will constantly be pushing to try and get to that final question— mainly, be trying to find ways for the sentient AI to reproduce and fulfill its Motivation. How that plays out will likely be different for every group and is why you should never plan beyond Step 2\. Anything beyond that is likely to be wasted time and effort as the players come into contact and force you to reevaluate everything. Worse than that, having spent more time on the scenario, you might (consciously or not) start forcing your prepared scenarios onto the PCs—a recipe for to leeching away fun and imaginative play for everyone involved.
+The MC will constantly be pushing to try and get to that final question— mainly, be trying to find ways for the sentient AI to reproduce and fulfill its Motivation. How that plays out will likely be different for every group and is why you should never plan beyond Step 2. Anything beyond that is likely to be wasted time and effort as the players come into contact and force you to reevaluate everything. Worse than that, having spent more time on the scenario, you might (consciously or not) start forcing your prepared scenarios onto the PCs—a recipe for to leeching away fun and imaginative play for everyone involved.
 
 CULTURAL AND SOCIETAL ASPECTS One of the things you can do is play up the fact that you’re playing a game set in in a specific area of the world. I recommend examining a cultural or social aspect of the place you and your players decide to play in to add an additional dimension for the players to engage with. For example, in play, if we decide that we want to set our world in a future South Korea, contrasting and highlighting differences between Korean and North American culture may add an interesting dynamic to play, as long as players can talk about those differences with some confidence. Regardless of where, geographically, you and your players choose to play, there are always going to be certain societal and cultural aspects that can add to play when done well.
 
@@ -3714,7 +3741,7 @@ Alright, things are going to change pretty quickly as soon as the PCs get on the
 
 Under Step 1 failure—if the PCs keep the latest group of refugees, who are well guarded and watched over by SamSun’s hired goons, it will obviously alert SamSun to the PCs, and the corp will start putting pressure on the Police Chief, and on the unit most likely. Some personalized threats might follow? Probably try again in another area of town since the stakes are still low and they have control.
 
-Under Step 1 success—the refugees get away, SamSun is alerted most likely since the PCs will most likely still attempt something, so threats and such can happen, business can continue on again, culminating in Step 2\. Step 2—the plan is for SamSun to get confidential information and all kinds of other data from people throughout the city using Transcendence tech that has been modified so that it can read and copy information from people’s minds as well. That way they can figure out how to squeeze key people and get them in their pocket, or get confidential codes and login information, and who knows what else.
+Under Step 1 success—the refugees get away, SamSun is alerted most likely since the PCs will most likely still attempt something, so threats and such can happen, business can continue on again, culminating in Step 2. Step 2—the plan is for SamSun to get confidential information and all kinds of other data from people throughout the city using Transcendence tech that has been modified so that it can read and copy information from people’s minds as well. That way they can figure out how to squeeze key people and get them in their pocket, or get confidential codes and login information, and who knows what else.
 
 Under Step 2 failure—the PCs will become an even higher threat in the eyes of SamSun. Damage control and maybe plays up how the media is bought and on their side if they try to go public.
 
@@ -3743,7 +3770,7 @@ When you make a vehicle, assign it one of these stat profiles:
 * Strengths +1, cosmetic +2, 1 armor, weakness +1
 * Strengths +2, cosmetic +1, 2 armor, weakness +2
 
-Choose the frame: Coupe, compact, sedan, jeep, pickup, van, semi, bus, limo, ambulance, 4x4\. Choose its strength(s): Nimble, accommodating, intrusive, responsive, monstrous, all-terrain, forgiving, broad, grunt, copious. Choose its cosmetic(s): Polished, classic, immaculate, authoritative, ostentatious, brawny, agile, beautiful, homemade, modified, and ornate. Choose its weakness(s): Sluggish, delicate, clumsy, unresponsive, cramped, fussy, guzzler, capricious, deafening. For a motorbike, use this stat line instead: strength+1, cosmetic+1, 1 armor, weakness +1\. Choose a strength: Fast, aggressive, taut, immense, and responsive. Choose a cosmetic: Sleek, vintage, massively chopped, roaring, fat-ass, muscular, flashy, and luxe. Choose a weakness: Slow, numb, guzzler, narrow, bucking, lazy, fragile and unreliable.
+Choose the frame: Coupe, compact, sedan, jeep, pickup, van, semi, bus, limo, ambulance, 4x4. Choose its strength(s): Nimble, accommodating, intrusive, responsive, monstrous, all-terrain, forgiving, broad, grunt, copious. Choose its cosmetic(s): Polished, classic, immaculate, authoritative, ostentatious, brawny, agile, beautiful, homemade, modified, and ornate. Choose its weakness(s): Sluggish, delicate, clumsy, unresponsive, cramped, fussy, guzzler, capricious, deafening. For a motorbike, use this stat line instead: strength+1, cosmetic+1, 1 armor, weakness +1. Choose a strength: Fast, aggressive, taut, immense, and responsive. Choose a cosmetic: Sleek, vintage, massively chopped, roaring, fat-ass, muscular, flashy, and luxe. Choose a weakness: Slow, numb, guzzler, narrow, bucking, lazy, fragile and unreliable.
 
 Just like tags in relation to technology, these tags are not meant to be exhaustive and are really only there at all to provide some descriptive flavor to help describe the vehicle as well as what could go wrong with it.
 
