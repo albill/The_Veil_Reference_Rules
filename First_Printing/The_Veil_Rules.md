@@ -89,6 +89,7 @@ In cyberpunk, a prevalent theme is how cultures might mix together in the future
 **CHARACTER SHEET (PLAYBOOK):** Every protagonist will have a sheet of paper with the important information that they need describing their character. If it’s pertinent to the protagonist, it will be on the sheet in order to help you remember what you need to know about them.  
 
 **CYBERTOME:** A term referring to a device possessed by one of the character archetypes you can play, known as the Onomastic, described more in detail on that playbook. What “it” is and what is contained within it is chosen by the Onomastic when and if they are able to open it.
+
 **DIGITAL ENVIRONMENT/DIGISCAPE:** Within the fiction of the game, there is both a physical environment that overlaps with the digital one, and one that characters in the world interact with by entering it, interpreting and manipulating information directly in their minds. In this purely digital space, every person has a representation of themselves (essentially, very much like _The Matrix_).  
 
 **EMOTION SPIKES:** A currency within the game that quantifies how much of any given emotion a protagonist is feeling. There are five check marks next to each emotion, which are the stats used in _The Veil_.  
@@ -107,7 +108,9 @@ In cyberpunk, a prevalent theme is how cultures might mix together in the future
 
 **MC:** Master of Ceremonies. The player who portrays the fiction and the characters other than the player characters in it. They are also responsible for setting up and framing most scenes, and moderating the conversation at the table. **MISS:** A miss is a term used to describe a negative outcome on the dice.  
 
-**MIXED REALITY:** A reality where the digital and the physical are intermingled into one reality with both occupying the same space. **MODIFIERS:** An integer that is added to a die roll.  
+**MIXED REALITY:** A reality where the digital and the physical are intermingled into one reality with both occupying the same space. 
+
+**MODIFIERS:** An integer that is added to a die roll.  
 
 **MOTIVATIONS:** Non-player characters have one defining Motivation within the story to get something specific. When the person running the game portrays them, their Motivation dictates how they act and react in the game.  
 
