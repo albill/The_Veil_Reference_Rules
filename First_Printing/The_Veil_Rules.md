@@ -78,35 +78,63 @@ Finally, there are some more handouts you’ll want to have at the table other t
 
 In cyberpunk, a prevalent theme is how cultures might mix together in the future. _The Veil_ has also taken this into consideration and has incorporated some popular elements into the game itself. Giri, enlightenment, and humanity are concepts in every culture. Giri is fairly common in in cyberpunk fiction, whereas enlightenment is a universal concept exemplified by Buddhist monks and other individuals and all faiths around the world. Lastly, humanity as tied to the concept of identity and the prospect of having characters confront their own along with the potential harm that could do to a person is explored via a specific mechanic as well. I felt that using the Chinese characters for the following three terms lent itself well to the aesthetic of _The Veil_ in my own game, so I encourage people to similarly change any terms used as needed to suit the culture they choose to play in.
 
-**GIRI:** The concept of debt as pertaining to a duty or obligation to another. 
-**ENLIGHTENMENT:** A form of currency used in the game for the Seeker playbook. 
-**HUMANITY:** A type of harm endured when a protagonist is faced with a hard truth about themselves or their beliefs are shaken. 
-**AGENCY:** The protagonists you portray in the game all have control over their own actions, what they say, what they do, all has an impact on the story. In most role-playing games this is normal, in this one it’s more prevalent because it’s a collaborative world being created by you. The players have a lot of agency and it directly impacts what happens next and where the story is going. Your decisions have consequences, you will have the information necessary to make decisions based on that information and the result will be a story that is improvised from what you say and do as protagonists in the game. When you do these things, this is your agency being asserted. 
-**CHARACTER SHEET (PLAYBOOK):** Every protagonist will have a sheet of paper with the important information that they need describing their character. If it’s pertinent to the protagonist, it will be on the sheet in order to help you remember what you need to know about them. 
+**GIRI:** The concept of debt as pertaining to a duty or obligation to another.  
+
+**ENLIGHTENMENT:** A form of currency used in the game for the Seeker playbook.  
+
+**HUMANITY:** A type of harm endured when a protagonist is faced with a hard truth about themselves or their beliefs are shaken.  
+
+**AGENCY:** The protagonists you portray in the game all have control over their own actions, what they say, what they do, all has an impact on the story. In most role-playing games this is normal, in this one it’s more prevalent because it’s a collaborative world being created by you. The players have a lot of agency and it directly impacts what happens next and where the story is going. Your decisions have consequences, you will have the information necessary to make decisions based on that information and the result will be a story that is improvised from what you say and do as protagonists in the game. When you do these things, this is your agency being asserted.  
+
+**CHARACTER SHEET (PLAYBOOK):** Every protagonist will have a sheet of paper with the important information that they need describing their character. If it’s pertinent to the protagonist, it will be on the sheet in order to help you remember what you need to know about them.  
+
 **CYBERTOME:** A term referring to a device possessed by one of the character archetypes you can play, known as the Onomastic, described more in detail on that playbook. What “it” is and what is contained within it is chosen by the Onomastic when and if they are able to open it.
-**DIGITAL ENVIRONMENT/DIGISCAPE:** Within the fiction of the game, there is both a physical environment that overlaps with the digital one, and one that characters in the world interact with by entering it, interpreting and manipulating information directly in their minds. In this purely digital space, every person has a representation of themselves (essentially, very much like _The Matrix_). 
-**EMOTION SPIKES:** A currency within the game that quantifies how much of any given emotion a protagonist is feeling. There are five check marks next to each emotion, which are the stats used in _The Veil_. 
-**ESSENCE:** An essential resource managed by the Wayward playbook that allows them to do some of their unique abilities. 
-**THE FICTION:** When the players are having a conversation about what happens within the game, the fiction is what is being referred to. This applies to anything to do with what’s happening in the collaborative world you build together via your conversation. 
-**FLAVOR:** When someone describes what’s happening or says something that furthers the tone of the game or embellish their actions or description of the world around them that does not interact with the mechanics of the game, such as rolling dice to find out what happens next. 
-**FLOW:** A resource managed by the Empath playbook that enables them to manipulate emotions as well as other things unique to them. 
-**HARM:** This is the term used to quantify damage, whether physical or mental, in the fiction of the game world. 
-**HIT:** A hit is a term used to describe a positive outcome on the dice. It can be a weak hit or a strong hit. A weak hit means it is not a complete success and that there may be a cost to succeeding, whereas a strong hit means the player succeeds without cost. 
-**MC:** Master of Ceremonies. The player who portrays the fiction and the characters other than the player characters in it. They are also responsible for setting up and framing most scenes, and moderating the conversation at the table. **MISS:** A miss is a term used to describe a negative outcome on the dice. 
-**MIXED REALITY:** A reality where the digital and the physical are intermingled into one reality with both occupying the same space. **MODIFIERS:** An integer that is added to a die roll. 
-**MOTIVATIONS:** Non-player characters have one defining Motivation within the story to get something specific. When the person running the game portrays them, their Motivation dictates how they act and react in the game. 
-**MOVES:** The major way players interact with the game fiction from a mechanical perspective. The conversation about what is happening in the game sometimes triggers moves, which influences the direction that the story then takes. More on moves on page 28. 
-**NEUROCHIP:** Most of the people in the fiction will have a neurochip, which constantly feeds them with information on what the world looks like, smells like, feels like, etc. It alters normal perceptions of reality to present something new; this is referred to as mixed reality or a hybrid reality. 
-**NEGATIVE TAGS:** A negative tag is the same as a normal tag except that the MC uses them when a player misses on the dice and makes a move against the players. It’s also giving the MC ideas as to how to have things affect those specific players in general during the course of play. 
-**NPC:** Stands for Non-Player Character—anyone in the game that is not a protagonist under the control of a player. This means the MC controls them. 
-**PC:** Player Character, also referred to as a protagonist. 
-**PLAYBOOK:** Playbooks describe a holistic approach to a character a type of player you can choose to play when you create your protagonist. Each one is unique. 
-**PROTAGONISTS:** Also refers to PC, they are the main characters being played by the players of the game other than the MC. 
-**S HARM:** A type of harm; the “s” stands for stun. Stun damage renders the target unconscious and does no lasting physical damage. 
-**SPIKE:** Refers to emotional spikes. A check mark is marked next to an emotion every time a player uses the corresponding stat. Each check mark signifies that the protagonist is experiencing this emotion more intensely. 
-**STATE:** A state is one of six core emotions a protagonist can feel during the game. Each one has a modifier assigned to it during character creation. 
-**TAG:** A tag is a word or sentence used to describe what something is or does in the fiction. It helps to define and characterize an object. 
-**THE VEIL:** In many references in this book, _The Veil_ may refer to either a depository of information not unlike The Internet of today, except that in this game, it also may possess an entity or will within it—depending on the type of cyberpunk story you end up telling. Other times it is simply a reference to this game and the play experience you get from it. 
+**DIGITAL ENVIRONMENT/DIGISCAPE:** Within the fiction of the game, there is both a physical environment that overlaps with the digital one, and one that characters in the world interact with by entering it, interpreting and manipulating information directly in their minds. In this purely digital space, every person has a representation of themselves (essentially, very much like _The Matrix_).  
+
+**EMOTION SPIKES:** A currency within the game that quantifies how much of any given emotion a protagonist is feeling. There are five check marks next to each emotion, which are the stats used in _The Veil_.  
+
+**ESSENCE:** An essential resource managed by the Wayward playbook that allows them to do some of their unique abilities.  
+
+**THE FICTION:** When the players are having a conversation about what happens within the game, the fiction is what is being referred to. This applies to anything to do with what’s happening in the collaborative world you build together via your conversation.  
+
+**FLAVOR:** When someone describes what’s happening or says something that furthers the tone of the game or embellish their actions or description of the world around them that does not interact with the mechanics of the game, such as rolling dice to find out what happens next.  
+
+**FLOW:** A resource managed by the Empath playbook that enables them to manipulate emotions as well as other things unique to them.  
+
+**HARM:** This is the term used to quantify damage, whether physical or mental, in the fiction of the game world.  
+
+**HIT:** A hit is a term used to describe a positive outcome on the dice. It can be a weak hit or a strong hit. A weak hit means it is not a complete success and that there may be a cost to succeeding, whereas a strong hit means the player succeeds without cost.  
+
+**MC:** Master of Ceremonies. The player who portrays the fiction and the characters other than the player characters in it. They are also responsible for setting up and framing most scenes, and moderating the conversation at the table. **MISS:** A miss is a term used to describe a negative outcome on the dice.  
+
+**MIXED REALITY:** A reality where the digital and the physical are intermingled into one reality with both occupying the same space. **MODIFIERS:** An integer that is added to a die roll.  
+
+**MOTIVATIONS:** Non-player characters have one defining Motivation within the story to get something specific. When the person running the game portrays them, their Motivation dictates how they act and react in the game.  
+
+**MOVES:** The major way players interact with the game fiction from a mechanical perspective. The conversation about what is happening in the game sometimes triggers moves, which influences the direction that the story then takes. More on moves on page 28.  
+
+**NEUROCHIP:** Most of the people in the fiction will have a neurochip, which constantly feeds them with information on what the world looks like, smells like, feels like, etc. It alters normal perceptions of reality to present something new; this is referred to as mixed reality or a hybrid reality.  
+
+**NEGATIVE TAGS:** A negative tag is the same as a normal tag except that the MC uses them when a player misses on the dice and makes a move against the players. It’s also giving the MC ideas as to how to have things affect those specific players in general during the course of play.  
+
+**NPC:** Stands for Non-Player Character—anyone in the game that is not a protagonist under the control of a player. This means the MC controls them.  
+
+**PC:** Player Character, also referred to as a protagonist.  
+
+**PLAYBOOK:** Playbooks describe a holistic approach to a character a type of player you can choose to play when you create your protagonist. Each one is unique.  
+
+**PROTAGONISTS:** Also refers to PC, they are the main characters being played by the players of the game other than the MC.  
+
+**S HARM:** A type of harm; the “s” stands for stun. Stun damage renders the target unconscious and does no lasting physical damage.  
+
+**SPIKE:** Refers to emotional spikes. A check mark is marked next to an emotion every time a player uses the corresponding stat. Each check mark signifies that the protagonist is experiencing this emotion more intensely.  
+
+**STATE:** A state is one of six core emotions a protagonist can feel during the game. Each one has a modifier assigned to it during character creation.  
+
+**TAG:** A tag is a word or sentence used to describe what something is or does in the fiction. It helps to define and characterize an object.  
+
+**THE VEIL:** In many references in this book, _The Veil_ may refer to either a depository of information not unlike The Internet of today, except that in this game, it also may possess an entity or will within it—depending on the type of cyberpunk story you end up telling. Other times it is simply a reference to this game and the play experience you get from it.  
+
 **XP:** Experience Points are a currency used in the game that is spent to improve a player character.
 
 **THE CONVERSATION** As mentioned before, the game is a conversation. Your job as a player with a protagonist is to describe what your character does, how they do it, what they care about and how they react to what other people are doing. In so doing, everyone else at the table will get a picture in their head of what they look like, how they act, and how their own characters, or other characters in the fiction feel about them. Sometimes you’ll slip right into your character and speak using their voice. On the other hand, you might describe what they do as seen by a camera in a movie, or a disembodied narrator. It’s up to you how you talk about your character, what they feel, and what they do. You’ll probably switch back and forth as needed, and that’s fine—do whatever is natural and fun for you. It’s everyone’s job, though, to keep things interesting. The mechanics of the game, the rules and some tips will help you push the story into interesting places and find a pace to avoid the minutia of everyday life that we deem uninteresting and don’t need to know or care about, and that wouldn’t be shown in a movie or TV show. We look at the characters when they’re being interesting, and we cut away to a new scene when they or the current scene aren’t.
@@ -829,65 +857,110 @@ The following tags are the ones that came up the most often during play and shou
 
 ## RANGE TAGS 
 
-**AREA:** This weapon affects an area with its fire, not just a single target. It ignores the group’s size when determining harm inflicted only if the targets are grouped together enough for it to apply to them all. Use common sense and clarify the fiction if need be. 
-**AUTO-FIRE:** The weapon can use the Area tag, but when it does so it uses all of its ammunition and needs to be reloaded. 
-**CLOSE:** Somewhere between 2 and 10 meters. 
-**CLOSE/FAR:** Both tags apply. 
-**FAR:** All the way from 10 meters to about a block away. 
-**FURTHER:** Effective from a block away, to a couple hundred meters away. 
-**HAND:** Effective within an easy radius of movement. 1–2 meters. 
-**HAND/CLOSE:** Both tags apply. 
-**INTIMATE:** Used in close quarters, within arm’s reach of you. 
+**AREA:** This weapon affects an area with its fire, not just a single target. It ignores the group’s size when determining harm inflicted only if the targets are grouped together enough for it to apply to them all. Use common sense and clarify the fiction if need be.  
+
+**AUTO-FIRE:** The weapon can use the Area tag, but when it does so it uses all of its ammunition and needs to be reloaded.  
+
+**CLOSE:** Somewhere between 2 and 10 meters.  
+
+**CLOSE/FAR:** Both tags apply.  
+
+**FAR:** All the way from 10 meters to about a block away.  
+
+**FURTHER:** Effective from a block away, to a couple hundred meters away.  
+
+**HAND:** Effective within an easy radius of movement. 1–2 meters.  
+
+**HAND/CLOSE:** Both tags apply.  
+
+**INTIMATE:** Used in close quarters, within arm’s reach of you.  
+
 **INTIMATE/HAND:** Both tags apply.
 
 ## DRAWBACK TAGS 
-**LOUD:** Draws attention when used; is noisy. 
-**MESSY:** Causes severe damage. It cannot be aimed for precise shots or work; it damages the surrounding target along with the target. 
-**RELOAD:** Weapon has limited ammo that needs to be reloaded often when used. 
+**LOUD:** Draws attention when used; is noisy.  
+
+**MESSY:** Causes severe damage. It cannot be aimed for precise shots or work; it damages the surrounding target along with the target.  
+
+**RELOAD:** Weapon has limited ammo that needs to be reloaded often when used.  
+
 **INDISCREET:** Attention-grabbing; very noticeable.
 
 ## ADVANTAGEOUS TAGS 
-**N ARMOR:** Every time this tag is chosen it means that it will block 1 harm for each time it is selected (may not exceed 2 armor). 
-**QUIET:** Makes little noise. 
-**SILENCED:** Makes little noise due to a separate piece inserted that degrades with use. 
-**SIGHTED:** Adds (+far). 
-**SCOPED:** Adds (+1 harm at further). 
-**HI-POWERED:** Adds (+1 harm). 
-**AUTOMATIC:** Adds (+area). 
-**ORNATE:** Adds (+valuable). 
-**ANTIQUE:** Adds (+valuable). 
-**INFINITE:** Does not run out of ammo. 
+**N ARMOR:** Every time this tag is chosen it means that it will block 1 harm for each time it is selected (may not exceed 2 armor).  
+
+**QUIET:** Makes little noise.  
+
+**SILENCED:** Makes little noise due to a separate piece inserted that degrades with use.  
+
+**SIGHTED:** Adds (+far).  
+
+**SCOPED:** Adds (+1 harm at further).  
+
+**HI-POWERED:** Adds (+1 harm).  
+
+**AUTOMATIC:** Adds (+area).  
+
+**ORNATE:** Adds (+valuable).  
+
+**ANTIQUE:** Adds (+valuable).  
+
+**INFINITE:** Does not run out of ammo.  
+
 **VALUABLE:** The object is rare or clearly worth a lot. It usually has qualities about it that would make someone think of its value rather than its function.
 
 ## AMMO TAGS 
-When you have this type of ammo, talk at the table and with the MC about when ammo should generally run out. It doesn’t have to be specific, but if a player has used a great deal of it, or the player has very little of it, they can expect to run out when it is dramatically appropriate. When purchasing ammo of these special types, it is assumed you’re getting one clip or magazine’s worth depending on the weapon you’re buying it for. Once this special ammunition is exhausted, you’re back to the normal type that does damage as normal without modification. 
-**ARMOR PIERCING (AP) AMMO:** Goes through armor. 
-**AIRBURST AMMO:** When you shoot these types of bullets, they sense the proximity of targets and explode beforehand. When you use this ammo, add +1 harm and add the area and messy tags to the weapon. 
-**EXPLOSIVE AMMO:** Blows up when it hits something; It does +1 harm and adds the area tag to a weapon. 
+When you have this type of ammo, talk at the table and with the MC about when ammo should generally run out. It doesn’t have to be specific, but if a player has used a great deal of it, or the player has very little of it, they can expect to run out when it is dramatically appropriate. When purchasing ammo of these special types, it is assumed you’re getting one clip or magazine’s worth depending on the weapon you’re buying it for. Once this special ammunition is exhausted, you’re back to the normal type that does damage as normal without modification.  
+
+**ARMOR PIERCING (AP) AMMO:** Goes through armor.  
+
+**AIRBURST AMMO:** When you shoot these types of bullets, they sense the proximity of targets and explode beforehand. When you use this ammo, add +1 harm and add the area and messy tags to the weapon.  
+
+**EXPLOSIVE AMMO:** Blows up when it hits something; It does +1 harm and adds the area tag to a weapon.  
+
 **SMART AMMO:** Changes the harm to s harm (see Damage Tags) when fired.
 
 ## TECHNOLOGICAL TAGS 
-**MULTI-SPECTRUM:** Can see multiple wavelengths. 
-**AMPLIFICATION:** Increases the range at which you see or hear something. 
-**COMMUNICATION:** Affords the ability to communicate by means other than neurochip. 
-**MAGNIFICATION:** Zooms in so you are able to see further than the human eye. 
-**CAMOUFLAGE:** Blends in with the surrounding environment. 
-**RECORDING:** Records whatever input it’s given, generally from what you’re seeing, hearing, or both. 
-**DAMPENING:** Cuts-off or weakens outgoing signals. 
+**MULTI-SPECTRUM:** Can see multiple wavelengths.  
+
+**AMPLIFICATION:** Increases the range at which you see or hear something.  
+
+**COMMUNICATION:** Affords the ability to communicate by means other than neurochip.  
+
+**MAGNIFICATION:** Zooms in so you are able to see further than the human eye.  
+
+**CAMOUFLAGE:** Blends in with the surrounding environment.  
+
+**RECORDING:** Records whatever input it’s given, generally from what you’re seeing, hearing, or both.  
+
+**DAMPENING:** Cuts-off or weakens outgoing signals.  
+
 **INTERCEPTING:** Able to pick-up, and perhaps even manipulate outgoing signals.
 **HUD:** Heads-up display, an interface that displays pertinent information by projecting it on the eye or other surface.
-**STORAGE:** A compartment or drive, internal or external, which can be used to store information or objects. 
-**REMOTE:** Able to be controlled from afar. 
-**DERMA-LINKED:** Embedded within or otherwise interacts with skin. 
-**MULTI-TASK:** Able to perform more than one task at any given time. 
-**ENCRYPTED:** Difficult to access without the proper key or password. 
-**COMPENSATING:** Helps to correct for human error. Could remove recoil or compensate for a person’s heartbeat, for example. 
-**IMPLANTED:** Housed within the body. 
-**JAMMING:** Capable of preventing any incoming and outgoing specified signal. 
-**THERMO-GRAPHIC:** Able to see and measure heat distribution. 
-**RESPONSIVE:** Reliable and intuitive to use. 
-**DURABLE:** Hard to break; long-lasting. 
-**INTEGRATED:** A system or piece of technology that is housed within another system. 
+**STORAGE:** A compartment or drive, internal or external, which can be used to store information or objects.  
+
+**REMOTE:** Able to be controlled from afar.  
+
+**DERMA-LINKED:** Embedded within or otherwise interacts with skin.  
+
+**MULTI-TASK:** Able to perform more than one task at any given time.  
+
+**ENCRYPTED:** Difficult to access without the proper key or password.  
+
+**COMPENSATING:** Helps to correct for human error. Could remove recoil or compensate for a person’s heartbeat, for example.  
+
+**IMPLANTED:** Housed within the body.  
+
+**JAMMING:** Capable of preventing any incoming and outgoing specified signal.  
+
+**THERMO-GRAPHIC:** Able to see and measure heat distribution.  
+
+**RESPONSIVE:** Reliable and intuitive to use.  
+
+**DURABLE:** Hard to break; long-lasting.  
+
+**INTEGRATED:** A system or piece of technology that is housed within another system.  
+
 **DETACHABLE:** Can be removed from its housing.
 
 ## CUSTOM TECH EXAMPLES 
@@ -896,7 +969,8 @@ When you have this type of ammo, talk at the table and with the MC about when am
 **B.I.R.D:** Biosynthetic Information Relay Device. Communication systems through bloodstream and other organic substances that Relays pertinent information to other team members. Vitals, GPS, etc. (Multi-task Interface discreet intercepting communications)
 
 ## DAMAGE TAGS 
-**+N HARM:** Every time you pick this it means that it will do 1 harm for every time it is selected. 
+**+N HARM:** Every time you pick this it means that it will do 1 harm for every time it is selected.  
+
 **+S HARM:** Every time you pick this tag it means that it will do stun damage, which is not tracked like harm is.
 **HUMANITY HARM:** Mental distress that specifically causes the target to question their identity.
 
@@ -904,15 +978,23 @@ When you have this type of ammo, talk at the table and with the MC about when am
 
 Damage types are only used to explain what type of damage is being done within the fiction. Anytime anything does n harm, where n is the number of harm it causes, it can also be a damage type tag. It still will always do the same amount of damage it’s assigned, but within the fiction we now know what that damage looks like. If a weapon does not have a damage type assigned, it means the weapon is being used in the traditional sense and does not need to be modified with a damage type. 
 
-**FLECHETTE:** Fires clusters of small darts meant to damage or poison. 
-**KINETIC:** Discharges a wave of force. 
-**SHOCKING:** Discharges electrical energy, interferes with nervous system. 
-**BURNING:** Discharges thermal energy. 
-**PLASMA:** Discharges superhot, plasma energy. 
-**PARTICLE:** Discharges a beam consisting of particles. 
-**MAGNETIC:** Uses magnetic forces to propel some form of projectile. 
+**FLECHETTE:** Fires clusters of small darts meant to damage or poison.  
+
+**KINETIC:** Discharges a wave of force.  
+
+**SHOCKING:** Discharges electrical energy, interferes with nervous system.  
+
+**BURNING:** Discharges thermal energy.  
+
+**PLASMA:** Discharges superhot, plasma energy.  
+
+**PARTICLE:** Discharges a beam consisting of particles.  
+
+**MAGNETIC:** Uses magnetic forces to propel some form of projectile.  
+
 **EXPLODING:** Discharges a great deal of energy and usually produces a great deal of volume and high temperatures.
-**DISTORTING:** A type of damage that accelerates a round rapidly. Could also be applied to tech that interferes with something else. 
+**DISTORTING:** A type of damage that accelerates a round rapidly. Could also be applied to tech that interferes with something else.  
+
 **EMP:** Electromagnetic pulse, renders most electrically-operated devices inoperable for some time.
 
 # CYBERNETICS
@@ -925,10 +1007,14 @@ You can create and have any kind of cybernetics you’d like, with a tag describ
 
 For every tag you want after that, you’ll have to handle obtaining it in the fiction after things get rolling. There is a move, called plasma and chrome, designed specifically for this that will come into effect when you find someone that is able to operate on you in order to enhance, remove, install, or otherwise modify any cybernetics that you have access to. Here are some examples of cybernetics with some tags, but bear in mind that there are far more possibilities:
 
-**EYES (3 TAGS):** An iris that could shift to view different forms of light in order to spot people, magnify, and record what it sees. The three tags would be written down as: multi-spectrum, magnification, and recording. 
-**EARS (3 TAGS):** Ears that could hear other broadcast frequencies, hear across further distances when desirable, and auto-dull sound in cases of explosions or other harmful noises would require thee tags as well: dampening, amplification, and interception. 
-**ARM (1 TAG):** An arm that looked completely normal, but that housed a compartment within it, would require the storage tag. 
-**LEG (1 TAG):** Legs that responded quickly and increased agility would require the responsive tag. 
+**EYES (3 TAGS):** An iris that could shift to view different forms of light in order to spot people, magnify, and record what it sees. The three tags would be written down as: multi-spectrum, magnification, and recording.  
+
+**EARS (3 TAGS):** Ears that could hear other broadcast frequencies, hear across further distances when desirable, and auto-dull sound in cases of explosions or other harmful noises would require thee tags as well: dampening, amplification, and interception.  
+
+**ARM (1 TAG):** An arm that looked completely normal, but that housed a compartment within it, would require the storage tag.  
+
+**LEG (1 TAG):** Legs that responded quickly and increased agility would require the responsive tag.  
+
 **INTERFACE (2 TAGS):** If you wanted to be able to pilot a remote plane and do other things at the same time that required your attention, your interface would need to have both the remote tag and the multi-task tag. Everyone at the table must decide what tags should be applicable in their setting, what effect they should have on the fiction, and use, remove, and add their own tags as necessary.
 
 ## NEGATIVE TAGS
